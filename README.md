@@ -2,7 +2,7 @@ Hey there! you found my github account. While this is not a very active place, I
 
 ## About me
 
-I am a computer systems engineer since last two decades. I have some knowledge in things like Operating Systems Administration, Software Development, Infrastructure Engineering and Site Reliability. All those catchy terms just mean I can deal with computers at a large number (don't worry, I can also play with raspberries), write code to run them and understand what it takes to keep them running for more than a day.
+I am a computer systems engineer since the last two decades. I have some knowledge in things like Operating Systems Administration, Software Development, Infrastructure Engineering and Site Reliability. All those catchy terms just mean I can deal with computers at a large number (don't worry, I can also play with raspberries), write code to run them and understand what it takes to keep them running for more than a day.
 I have worked in the financial, consulting, gaming and recently in the internet industry. I like to know people although I am not the most extrovert and I like to spend time learning about things related to technology and the industries I work with.
 
 I have been lucky enough to have an education at many levels in many countries and continue that streak with my employment life.
