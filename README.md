@@ -1,4 +1,4 @@
-Hey there! you found my github account. While this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 accounts (closed). Feel like having a chat? you can open an issue in the **[talk-to-me](https://github.com/mon88-mx/talk-to-me/issues)** repository, I know that is not very conventional, but it is something.
+Hey there! you found my github account. While this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 account (closed). Feel like having a chat? you can open an issue in the **[talk-to-me](https://github.com/mon88-mx/talk-to-me/issues)** repository, I know that is not very conventional, but it is something.
 
 ## About me
 
