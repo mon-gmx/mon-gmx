@@ -12,4 +12,5 @@ I have been lucky enough to have an education at many levels in many countries (
 I may come back here from time to time and speak of things I have in my mind. I don't contribute to any other social media platform so yeah that's it. Thanks for your interest. Wanna chat about a topic, need some contributions in a project? let me know!
 
 Here's an image copilot made for me:
+
 ![img](https://tse2.mm.bing.net/th/id/OIG3.rZngNmzvET0D5B2VICj9?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn)
