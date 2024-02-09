@@ -9,11 +9,7 @@ I have worked in the financial world, consulting, gaming and recently in the int
 
 :computer:
 
-I have been lucky enough to have an education at many levels in many countries and continued that streak with my professional life
-
-:de:
-:us:
-:mx:
+I have been lucky enough to have an education at many levels in many countries and continued that streak with my professional life.
 
 I may come back here from time to time and speak of things I have in my mind. I don't contribute to any other social media platform, I like to be the only loon in my feed, so yeah that's it.
 
@@ -21,3 +17,8 @@ I may come back here from time to time and speak of things I have in my mind. I 
   Here's an inaccurate image copilot made for me:<br/>
   <img src="https://th.bing.com/th/id/OIG2.tAOiCooWtItZXzBVBXt3?pid=ImgGn)https://th.bing.com/th/id/OIG2.tAOiCooWtItZXzBVBXt3?pid=ImgGn" alt="img" width="400" height="400"></img>
 </div>
+
+
+<hr/>
+
+## 
