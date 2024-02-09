@@ -12,6 +12,6 @@ I have been lucky enough to have an education at many levels in many countries (
 I may come back here from time to time and speak of things I have in my mind. I don't contribute to any other social media platform, I like to be the only loon in my feed, so yeah that's it.
 
 <div align="right">
-  Here's an inaccurate image copilot made for me:
-  <img src="https://th.bing.com/th/id/OIG2.tAOiCooWtItZXzBVBXt3?pid=ImgGn)https://th.bing.com/th/id/OIG2.tAOiCooWtItZXzBVBXt3?pid=ImgGn" alt="img" width="200" height="200"></img>
+  Here's an inaccurate image copilot made for me:<br/>
+  <img src="https://th.bing.com/th/id/OIG2.tAOiCooWtItZXzBVBXt3?pid=ImgGn)https://th.bing.com/th/id/OIG2.tAOiCooWtItZXzBVBXt3?pid=ImgGn" alt="img" width="400" height="400"></img>
 </div>
