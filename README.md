@@ -13,4 +13,4 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 Here's an inaccurate image copilot made for me:
 
-![img](https://th.bing.com/th/id/OIG2.tAOiCooWtItZXzBVBXt3?pid=ImgGn)
+![img](https://th.bing.com/th/id/OIG2.tAOiCooWtItZXzBVBXt3?pid=ImgGn) { width: 200px; height: 200px;}
