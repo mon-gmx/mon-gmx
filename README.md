@@ -9,7 +9,11 @@ I have worked in the financial world, consulting, gaming and recently in the int
 
 :computer:
 
-I have been lucky enough to have an education at many levels in many countries :mx: :cz: :de: and continued that streak with my professional life :mx: :us:
+I have been lucky enough to have an education at many levels in many countries and continued that streak with my professional life
+
+:de:
+:us:
+:mx:
 
 I may come back here from time to time and speak of things I have in my mind. I don't contribute to any other social media platform, I like to be the only loon in my feed, so yeah that's it.
 
