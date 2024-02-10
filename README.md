@@ -15,10 +15,20 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 <div align="right">
   Here's an inaccurate image copilot made for me:<br/>
-  <img src="https://th.bing.com/th/id/OIG2.tAOiCooWtItZXzBVBXt3?pid=ImgGn)https://th.bing.com/th/id/OIG2.tAOiCooWtItZXzBVBXt3?pid=ImgGn" alt="img" width="400" height="400"></img>
+  <img src="https://github.com/mon88-mx/mon88-mx/assets/143756997/d8aac3b9-0949-412e-839c-c49e24b9ecc4" alt="img" width="400" height="400"></img>
 </div>
 
 
 <hr/>
 
-## 
+## Simple
+
+In the gist of many things going on lately around my own life I come close in contact with a lot of complains about how things keep degrading in quality and surging in price and I keep reaching over and over again to the same conclusion: simple was, is and will always be better. Focusing on shells full of gimmicks tend to always give us the same outcome yet we often just don't get it. I usually am triggered by buzzwords like _slice and dice_ or _democratize_ but I come to really empathize with this one: _enshitification_.
+
+I used to like my interpreters stupid simple, my code with zero boilerplate, my internet with zero limits, my services with zero subscriptions and the list goes on. I am not against progress, progress is good, that's why cars are safer and phones are faster, yet this decade all we get are flashy pinatas. I never realized how much I missed my stupid ugly steel wheels until I got some glossy 21" that caused me gastritis the second I scratched them. Screw those flashing lights, let's go back to simple, there's where beauty of crafting lies, that's where we have control.
+
+<div align="right">
+  Here's an inaccurate image copilot made for me:<br/>
+  <img src="https://tse2.mm.bing.net/th/id/OIG3.OgwyJQeh1AW6I9S8YTpp?pid=ImgGn" alt="img" width="400" height="400"></img>
+</div>
+
