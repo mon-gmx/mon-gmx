@@ -80,4 +80,9 @@ I wonder what a GPT tool would suggest about these entries, but let's not wonder
 > Stay open to learning from your mentees as well, as mentoring is a two-way street that can benefit both parties.
 > Remember to prioritize your goals and allocate time and resources accordingly. It's okay to start small and gradually work towards bigger objectives. Stay focused, stay adaptable, and keep pushing yourself to grow and develop in all areas of your life.
 
-I won't deny, these answers are bit generic, but seem well intentioned. Maybe I should add as point 6 improve my prompting skills to extract better recommendations. Maybe point 7 would be, be an activist of regulating AI and intellectual property? My master's thesis (while flawed in English) focused on the challenges IP had in my country against piracy... seems about right to take another dive into the topic.
+I won't deny, these answers are bit generic, but seem well intentioned. Maybe I should add as point 6 improve my prompting skills to extract better recommendations. Maybe point 7 would be: be an activist of regulating AI and intellectual property? My master's thesis (while flawed in English) focused on the challenges IP had in my country against piracy... seems about right to take another dive into the topic.
+
+<div align="right">
+  Here's an inaccurate image copilot made for me:<br/>
+  <img src="https://tse4.mm.bing.net/th/id/OIG3.YjrqJfe1bsejrrNiDMpI?pid=ImgGn" alt="img" width="400" height="400"></img>
+</div>
