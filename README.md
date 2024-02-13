@@ -33,7 +33,7 @@ I like my code with zero boilerplate, my internet with zero limits, my services 
 
 <hr/>
 
-## The challenges of finding alternatives.
+## The challenges of finding alternatives (and purpose)
 
 I have to start this entry by admiting how hard it is for me to write it. Like with many other things, I am rusty on writing. But I love the challenge of doing so. This along other activities I enjoy doing likely don't produce me other sources of income yet I like to think they foster the skills to actually find those other sources.
 Being in a limited immigration status is a constraint that forces one to think how to do other things that in a better situation would actually unlock one from doing more things than having a job. I like my branch, don't get me wrong, I might not be the sharpest doing what I do, but I can well defend myself and get acquainted with skills needed to solve problems, in any case, we can get as creative as a task requires and our human urge for purpose can be overwhelming. What am I trying to say here?
