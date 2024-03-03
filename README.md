@@ -1,4 +1,4 @@
-# hello world!
+![image](https://github.com/mon88-mx/mon88-mx/assets/143756997/2f522a06-b398-4e5a-b4fb-d4b59406de52)# hello world!
 
 Hey there! you found my github account. While this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 account (closed). Feel like having a chat? you can open an issue in the **[talk-to-me](https://github.com/mon88-mx/talk-to-me/issues)** repository, I know that is not very conventional, but it is the way I want it.
 
@@ -85,4 +85,17 @@ I won't deny, these answers are bit generic, but seem well intentioned. Maybe I 
 <div align="right">
   Here's an inaccurate image copilot made for me:<br/>
   <img src="https://tse4.mm.bing.net/th/id/OIG3.YjrqJfe1bsejrrNiDMpI?pid=ImgGn" alt="img" width="400" height="400"></img>
+</div>
+
+<hr/>
+
+## Back and almost sad
+
+So, over a couple of weeks I could see something... cannot call it either nerve-wrecking or heartbreaking, it is just an upsetting sight. I went back home and came to see that things have not changed. I love change, it is annoyingly painful, it is uncomfortable, it is full of unknowns, but it is necessary. I see my country policing is trying to hold on to old ideas while the population is trying to move on. I saw that throwing money rawly to the aches we have as society is doing more harm than good. I come back with a sense of gratefulness on what it means to have opportunities and I wished my land had a few things back in their list of priorities: tolerance, opportunity, education, respect and a sense of criticism. I hope at some point, my fellow nationals exchange handouts for any of these.
+
+Anyways, I am back, I am thankful for the clean air and for seeing another week, one which I am quite eager for it to start.
+
+<div align="right">
+  Here's an inaccurate image copilot made for me:<br/>
+  <img src="https://tse3.mm.bing.net/th/id/OIG3.UxUvCH01jUHmU8hbdqbn?pid=ImgGn" alt="img" width="400" height="400"></img>
 </div>
