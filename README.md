@@ -1,4 +1,4 @@
-![image](https://github.com/mon88-mx/mon88-mx/assets/143756997/2f522a06-b398-4e5a-b4fb-d4b59406de52)# hello world!
+# hello world!
 
 Hey there! you found my github account. While this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 account (closed). Feel like having a chat? you can open an issue in the **[talk-to-me](https://github.com/mon88-mx/talk-to-me/issues)** repository, I know that is not very conventional, but it is the way I want it.
 
