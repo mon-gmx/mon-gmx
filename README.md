@@ -128,3 +128,5 @@ This sounds like a nightmare, yet the house is nice when things work. And this k
   Here's an inaccurate image copilot made for me:<br/>
   <img src="https://tse4.mm.bing.net/th/id/OIG3.avFV7utNbo4NmXjSrVA0?pid=ImgGn" alt="img" width="400" height="400"></img>
 </div>
+
+I wish I had some solar panels installed in it... something tells me they would only fit in the garage.
