@@ -99,3 +99,32 @@ Anyways, I am back, I am thankful for the clean air and for seeing another week,
   Here's an inaccurate image copilot made for me:<br/>
   <img src="https://tse3.mm.bing.net/th/id/OIG3.UxUvCH01jUHmU8hbdqbn?pid=ImgGn" alt="img" width="400" height="400"></img>
 </div>
+
+<hr/>
+
+## A few cues on how to build right
+
+This is not a very thorough guide on how to do things right, but a retrospective on everything that can go wrong when things aren't done... right, right.
+
+13 years ago I got a house. That house was built to last. It is solid. But it has not aged well. This kind of reminds me on how we build things (call it products, software, services...) and how often we forget some basics on what constitutes something that is well built.
+
+I wanted to use some "features" of my house as analogies on how things are not built properly, but I can only think of examples and will let you fill in the blanks; here are some of its perks:
+
+- The stairs turn 3 times and are surrounded by an iron handrail. It looks nice, except when you bring furniture larger than the first 5 steps, then you wish levitating was something we could do
+- The windows are an iron grid with plenty panels of glass, their size is not standard. The inner side slides to the sides, but they are in a second and third story building. They can't be cleaned. They have no weather strips, they are heavy so they don't open
+- The closet doors slide with no rail guides. So they often misalign
+- Any shelves and cabinets are embeded in the walls. They cannot be unmounted and the walls are brick and mortar
+- The top level is a solar. With no tilt. So rain floods the stairs
+
+This sounds like a nightmare, yet the house is nice when things work. And this kind of reminds me on how things are built nowadays. They work fine as long as nothing external changes. It is also a nice reminder on things to keep in mind whenever we build things:
+
+- Make it simple (simple means easy to use, easy to live with and as byproduct, it will age well)
+- Make it easy to maintain (make sure you can clean the windows and change the lights)
+- Make it easy to fix
+- Make it use standards
+- Make it solid
+
+<div align="right">
+  Here's an inaccurate image copilot made for me:<br/>
+  <img src="https://tse4.mm.bing.net/th/id/OIG3.avFV7utNbo4NmXjSrVA0?pid=ImgGn" alt="img" width="400" height="400"></img>
+</div>
