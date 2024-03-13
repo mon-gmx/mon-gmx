@@ -130,3 +130,25 @@ This sounds like a nightmare, yet the house is nice when things work. And this k
 </div>
 
 I wish I had some solar panels installed in it... something tells me they would only fit in the garage.
+
+<hr/>
+
+Back again. I wish I had something interesting to write about yet in preparation for doing better things with my time I just have my head somewhere else. Still I find the will to do some notes on things I'd like to see in my workplace (linkedin) anytime soon, since they are betting for having rails/shorts/vines... rather than leveraging their own base, here are my two cents:
+
+The tone at the platform is hideous at best. It is all about showing off how cringey you can be about working or not working while still thinking about work. The tone is simply insane. So instead of giving it a push and drive us sane people further from it, why not pushing where your site shines? Getting a job and getting connected?
+
+I'd love to see interviewing in the same page you apply for a position. Not leaving the platform has many benefits both for the hiring folk and for the applicant. Having insights on your recent achievements in your learning path is also useful to drive a conversation, show them to the interviewer, but for real, having the interviewing, notepad, doc management and whatever it takes to get talent is something that is not far from reach but somehow the platform insists on being Meta.
+
+Did you attend a course? have conversation starters with people with same interests. Don't add the AI collab bs, invite people to share their work and share ideas, you have comments but no Q&A about a topic, sites like StackOverflow would be easily replaced by sections where answering questions without the anonimity invites people to be less toxic, or at least some of them.
+
+I think making the platform a place for sharing ideas on topics they care about (not where you infer they are experts) and giving them the whole package for landing a job rather than just getting the first step done is far more important than having short videos of hipocrisy. But well, this is the world we live in and catching up with the rest is the name of the game for now.
+
+No AI drawing this time.
+
+<div align="right">
+  Just kidding. Here's an inaccurate image copilot made for me:<br/>
+  <img src="https://tse1.mm.bing.net/th/id/OIG1.OymrZ8ikNqPwZEtu6SS9?pid=ImgGn" alt="img" width="400" height="400"></img>
+</div>
+
+
+
