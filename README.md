@@ -114,9 +114,13 @@ I wanted to use some "features" of my house as analogies on how things are not b
 - The windows are an iron grid with plenty panels of glass, their size is not standard. The inner side slides to the sides, but they are in a second and third story building. They can't be cleaned. They have no weather strips, they are heavy so they don't open
 - The closet doors slide with no rail guides. So they often misalign
 - Any shelves and cabinets are embeded in the walls. They cannot be unmounted and the walls are brick and mortar
-- The top level is a solar. With no tilt. So rain floods the stairs
+- The top level is a terrace. With no tilt. So rain floods the stairs
+- Rising dampness is no strange, but fixing it is not easy when there are no plans on the water lines
+- There are few power outlets, adding more is not a cut here, wire there kind of thing. Brick and mortar
+- The kitchen has no room for the appliances
+- Every bathroom is different, shape, color, size, you name it
 
-This sounds like a nightmare, yet the house is nice when things work. And this kind of reminds me on how things are built nowadays. They work fine as long as nothing external changes. It is also a nice reminder on things to keep in mind whenever we build things:
+This sounds like a tough case of build as you need (or better said as you earn), yet the house is nice when things work. And this kind of reminds me on how things are built nowadays. They work fine as long as nothing external changes. It is also a nice reminder on things to keep in mind whenever we build things:
 
 - Make it simple (simple means easy to use, easy to live with and as byproduct, it will age well)
 - Make it easy to maintain (make sure you can clean the windows and change the lights)
