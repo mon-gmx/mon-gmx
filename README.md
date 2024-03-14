@@ -125,7 +125,7 @@ This sounds like a tough case of build as you need (or better said as you earn),
 - Make it simple (simple means easy to use, easy to live with and as byproduct, it will age well)
 - Make it easy to maintain (make sure you can clean the windows and change the lights)
 - Make it easy to fix
-- Make it use standards
+- Make it using standards and follow them
 - Make it solid
 
 <div align="right">
