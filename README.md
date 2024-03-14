@@ -127,6 +127,7 @@ This sounds like a tough case of build as you need (or better said as you earn),
 - Make it easy to fix
 - Make it using standards and follow them
 - Make it solid
+- Make it easy to scale
 
 <div align="right">
   Here's an inaccurate image copilot made for me:<br/>
