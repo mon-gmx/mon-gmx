@@ -146,7 +146,7 @@ I'd love to see interviewing in the same page you apply for a position. Not leav
 
 Did you attend a course? have conversation starters with people with same interests. Don't add the AI collab bs, invite people to share their work and share ideas, you have comments but no Q&A ranking and the existing Q&A is just a feed of comments, sites like StackOverflow would be easily replaced by sections where answering questions and ranking answers without the anonimity invites people to be less toxic, or at least some of them, which basically is what makes StackOverflow suck.
 
-I think making the platform a place for sharing ideas on topics they care about (not where you infer they are experts) and giving them the whole package for landing a job rather than just getting the first step done is far more important than having short videos of hipocrisy. But well, this is the world we live in and catching up with the rest is the name of the game for now.
+I think making the platform a place for sharing ideas on topics they care about (not where you infer they are experts) and giving them the whole package for landing a job rather than just getting the first step done is far more important than having short videos. But well, this is the world we live in and catching up with the rest is the name of the game for now.
 
 No AI drawing this time.
 
