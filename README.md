@@ -124,7 +124,7 @@ This sounds like a tough case of build as you need (or better said as you earn),
 
 - Make it simple (simple means easy to use, easy to live with and as byproduct, it will age well)
 - Make it easy to maintain (make sure you can clean the windows and change the lights)
-- Make it easy to fix
+- Make it easy to fix (even if you can change a light, make sure you can replace a cable when the time comes)
 - Make it using standards and follow them
 - Make it solid
 - Make it easy to scale
@@ -138,7 +138,7 @@ I wish I had some solar panels installed in it... something tells me they would 
 
 <hr/>
 
-Back again. I wish I had something interesting to write about yet in preparation for doing better things with my time I just have my head somewhere else. Still I find the will to do some notes on things I'd like to see in my workplace (linkedin) anytime soon, since they are betting for having rails/shorts/vines... rather than leveraging their own base, here are my two cents:
+Back again. I wish I had something interesting to write about yet in preparation for doing better things with my time I just have my head somewhere else. Still I find the will to do some notes on things I'd like to see in my workplace anytime soon, since they are betting for having rails/shorts/vines... rather than leveraging their own base, here are my two cents:
 
 The tone at the platform is hideous at best. It is all about showing off how cringey you can be about working or not working while still thinking about work. The tone is simply insane. So instead of giving it a push and drive us sane people further from it, why not pushing where your site shines? Getting a job and getting connected?
 
@@ -159,7 +159,7 @@ No AI drawing this time.
 
 I am going home.
 
-After 5 long years (that felt like 10), I am going home. I came to the US with close to no idea on how life would be and as challenging it has been, it has been the opportunity of a lifetime. I regret not having done more of this time, cannot admit I was complacient, however the opportunities and the migratory situation hardly aligned so I did as much as my situation, intellect and skill allowed me, and it was as people likes to say: a net positive. I made a bunch of mistakes, I made no friends, many new contact, I went through a lot and I learned a vast amount of things, a new working culture (Silicon Valley one), a different comunity, a whole different set of rules, I became more critical on many things, I kind of fell in love with what America can offer (not to say its astonishing national parks) I truly enjoyed contributing to the American economy and learning what opportunity can actually bring in people's life. It was eye opening from the first day. 
+After 5 long years (that felt like 10), I am going home. I came to the US with close to no idea on how life would be and as challenging it has been, it has been the opportunity of a lifetime. I regret not having done more of this time, cannot admit I was complacient, however the opportunities and the migratory situation hardly aligned so I did as much as my situation, intellect and skill allowed me, and it was as people likes to say: a net positive. I made a bunch of mistakes, I made no friends, many new contacts, I went through a lot and I learned a vast amount of things, a new working culture (Silicon Valley one), a different comunity, a whole different set of rules, a whole different way of doing things, I became more critical on many subjects, I kind of fell in love with what America can offer (not to say its astonishing national parks) I truly enjoyed contributing to the American economy and learning what opportunity can actually bring in people's life. It was eye opening from the first day. Why am I going back then? Because no matter how good it is (and it is great, probably the best in the world), it is not my home.
 
 My mind is filled with gratitude and a bit of anxiety on what's to come.
 
