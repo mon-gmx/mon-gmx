@@ -159,8 +159,14 @@ No AI drawing this time.
 
 I am going home.
 
-After 5 long years (that felt like 10), I am going home. I came to the US with close to no idea on how life would be and as challenging it has been, it has been the opportunity of a lifetime. I regret not having done more of this time, cannot admit I was complacient, however the opportunities and the migratory situation hardly aligned so I did as much as my situation, intellect and skill allowed me, and it was as people likes to say: a net positive. I made a bunch of mistakes, I made very little friends, I went through a lot and I learned a vast amount of things, a new working culture, a different comunity, a whole different set of rules, I became more critical on many things, I kind of fell in love with what America can be and I truly enjoyed contributing to the American economy and learning what opportunity can actually bring in people's life. It was eye opening from the first day. 
+After 5 long years (that felt like 10), I am going home. I came to the US with close to no idea on how life would be and as challenging it has been, it has been the opportunity of a lifetime. I regret not having done more of this time, cannot admit I was complacient, however the opportunities and the migratory situation hardly aligned so I did as much as my situation, intellect and skill allowed me, and it was as people likes to say: a net positive. I made a bunch of mistakes, I made no friends, many new contact, I went through a lot and I learned a vast amount of things, a new working culture (Silicon Valley one), a different comunity, a whole different set of rules, I became more critical on many things, I kind of fell in love with what America can offer (not to say its astonishing national parks) I truly enjoyed contributing to the American economy and learning what opportunity can actually bring in people's life. It was eye opening from the first day. 
 
 My mind is filled with gratitude and a bit of anxiety on what's to come.
+
+<div align="right">
+  Here's an inaccurate image copilot made for me:<br/>
+  <img src="https://tse1.mm.bing.net/th/id/OIG1.lkL0IqrcvzifGSSf8mui?pid=ImgGn" alt="img" width="400" height="400"></img>
+</div>
+
 
 
