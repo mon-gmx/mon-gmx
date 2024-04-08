@@ -168,5 +168,12 @@ My mind is filled with gratitude and a bit of anxiety on what's to come.
   <img src="https://tse1.mm.bing.net/th/id/OIG1.lkL0IqrcvzifGSSf8mui?pid=ImgGn" alt="img" width="400" height="400"></img>
 </div>
 
+<hr/>
+
+Why doing something matters
+
+Once you reach certain age you come to question everything you know and everything you believe in. Definitely most of us did that when we were teenagers. But it happens again and unlike back when we were young, you do it with a different perspective. If you have been lucky enough to live through different ups and downs, the point of reference widens and the criticism on what's right, what's wrong and what can be changed kind of extends. It is a fascinating state of mind as an expectator, yet it is always good to have some retrospective and apply the same to ourselves. Then we question our purpose. I think when we do that, we understand the relevance of being busy, the relevance of feeling useful and even the relevance of getting things done no matter how nice or hideous they are to us, if we are fortunate enough to be able to choose to be occupied, that's a blessing overall, because the mind rarely settles.
+
+_to be continued_
 
 
