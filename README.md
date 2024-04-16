@@ -178,6 +178,11 @@ Having purpose often conflicts with our perception on what a successful life is 
 
 Many of us are born with talent. That is the big differentiator between being good at something and being great. Yet talent is like color in a gemstone. A white gemstone will be less attractive than a red one, but it is only until the white one is cut, and polished that it overcomes the lack of color and it becomes sought after. Yes, the same or even more can be achieved with the red one, but it is the work that's put into them that gives them the additional value. Doing things is shaping, is inspiring and it is the only way to fail often enough that we can actually claim expertise.
 
-_to be continued_
+Is this suggesting doing anything is useful? Well, I think, it really depends on what use we want for it. Often times we just want to grind for the sake of breaking away and feel like we achieved something. Other times, we are preparing for a greater task and end up finding that the preparation was the greater task itself. So what am I trying to say anyway? That even when a task sucks you should do it, that you should always be busy, that doing things is the best time to learn and that it is only when you do things that you find real joy, because it is only when you are doing things that you find purpose and maybe for us with our finite amount of time, is the shortest path to find success.
 
+<div align="right">
+  Here's an inaccurate image copilot made for me:<br/>
+  <img src="https://tse1.mm.bing.net/th/id/OIG1.r6NucxBtMkqLQNqb1QyM?pid=ImgGn" alt="img" width="400" height="400"></img>
+</div>
 
+<hr/>
