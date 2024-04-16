@@ -157,11 +157,11 @@ No AI drawing this time.
 
 <hr/>
 
-I am going home.
+A casa
 
-After 5 long years (that felt like 10), I am going home. I came to the US with close to no idea on how life would be and as challenging it has been, it has been the opportunity of a lifetime. I regret not having done more of this time, cannot admit I was complacient, however the opportunities and the migratory situation hardly aligned so I did as much as my situation, intellect and skill allowed me, and it was as people likes to say: a net positive. I made a bunch of mistakes, I became more dedicated, unfortunately I made no close friends but I got many new acquaitances, I went through a lot and I learned a vast amount of things, a new working culture (Silicon Valley one), a different comunity, a whole different set of rules, a whole different way of doing things, I became more critical on many subjects, I kind of fell in love with what America can offer (not to say its astonishing national parks) I truly enjoyed contributing to the American economy and learning what opportunity can actually bring in people's life. It was eye opening from the first day. I am deeply grateful towards my employer and of course, to the land of the free.
+After 5 long years (that felt like 10), I am going home. I came to the US with close to no idea on how life would be and as challenging it has been, it has been the opportunity of a lifetime. I regret not having done more of this time, cannot admit I was complacient, however the opportunities and the migratory situation hardly aligned so I did as much as my situation, intellect and skill allowed me, and it was as people likes to say: a net positive. I made a bunch of mistakes, I became more dedicated, unfortunately I made no close friends but I got many new acquaitances, I went through a lot and I learned a vast amount of things, a new working culture (Silicon Valley one), a different comunity, a whole different set of rules, a whole different way of doing things, I became more critical on many subjects, I kind of fell in love with what America can offer (not to say its astonishing national parks) I truly enjoyed contributing to the American economy and learning what opportunity can actually bring in people's life. It was eye opening from the first day. I am deeply grateful to my employer and of course, to the land of the free.
 
-My mind is filled with gratitude and a bit of anxiety on what's to come.
+My mind is filled with gratitude and a bit of anxiety on what's to come... but I am going home.
 
 <div align="right">
   Here's an inaccurate image copilot made for me:<br/>
