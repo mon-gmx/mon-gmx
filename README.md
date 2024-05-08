@@ -186,3 +186,22 @@ Is this suggesting doing anything is useful? Well, I think, it really depends on
 </div>
 
 <hr/>
+
+No ragrets
+
+Now that I go into a new life event I wanted to make a list of regrets that I have. I could deceivingly say I have none, but then I would have no lessons to take away with me, so at least regrets are reflections on decisions I could have made differently. So without further ado, I can start:
+
+1. Not going straight into my perm process is probably the first one. I moved to a different country without a good idea on what to expect, but a challenge. I came in as a temporary worker and got sold into the temporary word quite fast. Had I weighed in all it takes to move and start again, probably one of the first things I would get rid of is the temporary label.
+2. Not engaging earlier. I think 2010 was a great time to be in the USA by many measures. I was sold into the idea of trying my luck in Europe. I think I had far better and stronger career opportunities, I just happened to stumble upon those almost ten years later. I think at the very least my net worth would be far different by now.
+3. Not investing continuously in my education. Now that I take a break from my work activities, one of the first things I have committed to is my education. I deeply regret not visiting the public library once a week as I do now. Yes, I used to go through learning courses and safari books (I can proudly say I got a top learner badge at least twice), but I think the value of books is irreplaceable and well probably I'd be 200 books further in my reading habits by now.
+4. Not getting involved in a community. Visibility is paramount for a healthy career. Unfortunately doing the weight lifting under the cover of business can result in frustration when we see we don't move forward as fast as people doing less grunt work but greater PR stunts. Being in Silicon Valley was the opportunity of a lifetime, yet staying locked, solving problems where my contribution was constrained to the tasks I was paid for was not the wisest option, especially before COVID took place.
+5. Not moving early enough. As absurd as it may sound, a long tenure in this place is not a good sign of a healthy career. Even when I still believe I came to work for one of the best if not the best working culture in the valley, but missed many others. Yes, FAANG can mean many things: an easy entry to other jobs, a way to get a great salary, a golden ticket in a resume, but above all of that, it means working with brilliant people and sticking to one place of course has the trade off of missing the opportunity to learn from other great minds.
+6. Going into survival mode. We have often heard about how difficult situations bring great opportunities. I got to experience this in person when COVID hit. I think most of the greatest opportunities happened as we panicked and went into a lock down. I think among the best opportunities I passed on due to the struggle of either taking risks or trying to get out of it alive I missed the opportunity to pursue a promotion with little friction. I missed the opportunity to move to an affordable city where my cost of life would greatly decrease. I missed the opportunity to experience working in a Nordic country. Yes, I got the jab. Yes, I met dire circumstances (loss of loved ones). But looking back, the big loss I see is getting more invested in trading meme stocks rather than investing in placing myself where opportunity was.
+My list could grow larger, but overall, as I write these lines I come to a simple conclusion: my regrets are all around not being available to opportunities. I think writing is a great way to understand our life decisions so even when this is admitting flaws in my judgment during multiple situations, I have zero regrets about writing this entry.
+
+<div align="right">
+  Here's an inaccurate image copilot made for me (it took me some time to get the prompt right, yet I wished for a better font):<br/>
+  <img src="https://tse1.mm.bing.net/th/id/OIG4.Zq_KCJAn6fCPXFDW2.eo?pid=ImgGn" alt="img" width="400" height="400"></img>
+</div>
+
+<hr/>
