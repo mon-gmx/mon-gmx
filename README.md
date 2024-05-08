@@ -202,7 +202,7 @@ Now that I go into a new life event I wanted to make a list of regrets that I ha
 My list could grow larger, but overall, as I write these lines I come to a simple conclusion: my regrets are all around not being available to opportunities. I think writing is a great way to understand our life decisions so even when this is admitting flaws in my judgment during multiple situations, I have zero regrets about writing this entry.
 
 <div align="right">
-  Here's an inaccurate image copilot made for me (it took me some time to get the prompt right, yet I wished for a better font):<br/>
+  Here's an inaccurate image copilot made for me (it took me some time to get the prompt right this time, yet I wished for a better font):<br/>
   <img src="https://tse1.mm.bing.net/th/id/OIG4.Zq_KCJAn6fCPXFDW2.eo?pid=ImgGn" alt="img" width="400" height="400"></img>
 </div>
 
