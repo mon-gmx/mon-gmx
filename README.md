@@ -56,7 +56,7 @@ I wonder what a GPT tool would suggest about these entries, but let's not wonder
 > Consider starting small by testing your ideas at local markets or through online platforms before committing to a full-scale retail operation.
 > Go back to a disciplined fitness lifestyle:
 > 
-> Design a home workout routine using your kettlebell and resistance bands, incorporating your 24 years of weightlifting experience.
+> Design a home workout routine using your home equipment, incorporating your 24 years of weightlifting experience.
 > Explore alternative fitness options such as calisthenics, yoga, or outdoor activities like hiking or cycling.
 > Set specific fitness goals for yourself, such as increasing strength, improving endurance, or achieving specific lifts or movements.
 > Consider becoming certified as a personal trainer or fitness coach to formalize your knowledge and potentially offer training services to others.
@@ -138,7 +138,9 @@ I wish I had some solar panels installed in it... something tells me they would 
 
 <hr/>
 
-Back again. I wish I had something interesting to write about yet in preparation for doing better things with my time I just have my head somewhere else. Still I find the will to do some notes on things I'd like to see in my workplace anytime soon, since they are betting for having rails/shorts/vines... rather than leveraging their own base, here are my two cents:
+## Back again
+
+I wish I had something interesting to write about yet in preparation for doing better things with my time I just have my head somewhere else. Still I find the will to do some notes on things I'd like to see in my workplace anytime soon, since they are betting for having rails/shorts/vines... rather than leveraging their own base, here are my two cents:
 
 The tone at the platform is hideous at best. It is all about showing off how cringey you can be about working or not working while still thinking about work. The tone is simply insane. So instead of giving it a push and drive us sane people further from it, why not pushing where your site shines? Getting a job and getting connected?
 
@@ -157,7 +159,7 @@ No AI drawing this time.
 
 <hr/>
 
-A casa
+## Going home
 
 After 5 long years (that felt like 10), I am going home. I came to the US with close to no idea on how life would be and as challenging it has been, it has been the opportunity of a lifetime. I regret not having done more of this time, cannot admit I was complacient, however the opportunities and the migratory situation hardly aligned so I did as much as my situation, intellect and skill allowed me, and it was as people likes to say: a net positive. I made a bunch of mistakes, I became more dedicated, unfortunately I made no close friends but I got many new acquaitances, I went through a lot and I learned a vast amount of things, a new working culture (Silicon Valley one), a different comunity, a whole different set of rules, a whole different way of doing things, I became more critical on many subjects, I kind of fell in love with what America can offer (not to say its astonishing national parks) I truly enjoyed contributing to the American economy and learning what opportunity can actually bring in people's life. It was eye opening from the first day. I am deeply grateful to my employer and of course, to the land of the free.
 
@@ -170,7 +172,7 @@ My mind is filled with gratitude and a bit of anxiety on what's to come... but I
 
 <hr/>
 
-Why doing something matters
+## Why doing something matters
 
 Once you reach certain age you come to question everything you know and everything you believe in. Definitely most of us did that when we were teenagers. But it happens again and unlike back when we were young, you do it with a different perspective. If you have been lucky enough to live through different ups and downs, the point of reference widens and the criticism on what's right, what's wrong and what can be changed kind of extends. It is a fascinating state of mind as a spectator, yet it is always good to have some retrospective and apply the same to ourselves. Then we question our purpose. I think when we do that, we understand the relevance of being busy, the relevance of feeling useful and even the relevance of getting things done no matter how nice or hideous they are to us, if we are fortunate enough to be able to choose to be occupied, that's a blessing overall, because the mind rarely settles.
 
@@ -187,7 +189,7 @@ Is this suggesting doing anything is useful? Well, I think, it really depends on
 
 <hr/>
 
-No ragrets
+## Ragrets
 
 Now that I go into a new life event I wanted to make a list of regrets that I have. I could deceivingly say I have none, but then I would have no lessons to take away with me, so at least regrets are reflections on decisions I could have made differently. So without further ado, I can start:
 
