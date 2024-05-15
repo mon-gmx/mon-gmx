@@ -211,3 +211,8 @@ My list could grow larger, but overall, as I write these lines I come to a simpl
 ## Small bursts.
 
 This is a section I plan on dedicating to small bursts of comments. I often like to add my opinion and illustrate it with the help of copilot, while I enjoy doing that, it is time consuming and I want to be thoughtful about what I write, yet I need to drop some thoughts from time to time and probably here is the right place, so a section is born (?), I am still not interested in making this a github.io page the less moving to a content provider (and of course not getting a domain, that's pricey when done right).
+
+
+### DevOps is not SRE, or is it?
+
+This is a silly shitpost, but I want to share it because it is often used as a synonym and great people end up hating their duties due to the huge confusion Google created with this term. So wanna know the difference? I think I can summarize it in a few lines: SRE means engineers **obsessed** about site up, performance, service levels and whatever it takes to get there. Fix code? Yes, Fix infra? Yes, Fix monitoring? Of course!, Negotiate service levels? Maybe, Automation? Yes! DevOps on the other hand is handling the power to run a service to its developers, no more sysadmin doing your dirty work. So essentially they look like DevOps should be doing SRE, right? I tend to see it the other way around, SRE will do the DevOps to keep the lights on. DevOps (should not) focuses on the tools to make the show run smoothly from inception to deployment. So in real life what does it mean? Want the best, most bad ass container maniacs that can do CI/CD? get yourself a DevOps guy. Want to get your service fine tuned and focus on building at scale? Get yourself an SRE. 
