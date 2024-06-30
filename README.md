@@ -167,7 +167,7 @@ My mind is filled with gratitude and a bit of anxiety on what's to come... but I
 
 <div align="right">
   Here's an inaccurate image copilot made for me:<br/>
-  <img src="https://tse1.mm.bing.net/th/id/OIG1.lkL0IqrcvzifGSSf8mui?pid=ImgGn" alt="img" width="400" height="400"></img>
+  <img src="https://tse1.mm.bing.net/th/id/OIG4.SQIK30ab9s6S48NFYxHK?pid=ImgGn" alt="img" width="400" height="400"></img>
 </div>
 
 <hr/>
@@ -221,3 +221,7 @@ This is a silly shitpost, but I want to share it because it is often used as a s
 
 I try to steer away from discussing political issues when going online. There is no way to win and the outcome is never useful to create new ties. So I will only point out some traits that bring me to the thoughts that defined the title. During my lifetime I have been able to live in different countries; some were more tied to what we used to call the east and some that represent the west itself. I noticed that many of our systems, intentionally or not, are good enablers for people to make bad decisions that will result in desperation for them. Bad decisions paired with a poor education are catastrophic, despite this, it is easier to get in trouble than it is to get out of it, or better yet, not to get into it in the first place.
 I bite my tongue to provide specific examples that can be interpreted as criticism of a specific nation (it has never been my intention), but I think these few I will provide will resonate to many. You have access to egregious types of debt that limit the ability to make good decisions for yourself. You are at a constant risk of losing wealth, health or both with no easy recovery in sight. You are often pushed to pursue a poor quality of life in exchange for limited opportunity. Why am I writing these lines anyway? I am just reflecting on how easy it is to build desperation rather than prosperity in our current frameworks and how frightening this is knowing there is not much commitment to do things differently as we mostly (and reasonably nonetheless) run in this wild rat race that we call life.
+
+### A month has gone by
+
+Just like the title says, tomorrow marks the first month since I came back to my land. It has been super exhaustive. I had no idea on how many things we had to sort out, to fix, to get done and still we find everyday there's something else missing. Simply put, I've never been busier. I am happy to be back, I am happy to be busy and I hope for having yet more things to do in the near future because being busy is fuel for me. Along the things I had to sort out (including fixing many home owner shenanigans, I had the opportunity to put back to use my raspberry pi's cluster which has been didactic as usual; now I am in the search for projects that can put to good use the 80% CPU I have left for those few machines.
