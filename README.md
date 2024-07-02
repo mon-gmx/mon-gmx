@@ -26,11 +26,6 @@ In the gist of many things going on lately around my own life I come close in co
 
 I like my code with zero boilerplate, my internet with zero limits, my services with zero subscriptions and the list goes on. I am not against progress, progress is good, that's why cars are safer and phones are faster, yet this decade all we get are flashy pinatas solving no problem, but the problem created to keep the greedy appeased. I never realized how much I miss what is simple and reliable. Screw those flashy trims and non-sense all glued together gadgets, let's go back to simple, there's where beauty of crafting lies, that's where we have control.
 
-<div align="right">
-  Here's an inaccurate image copilot made for me:<br/>
-  <img src="https://tse2.mm.bing.net/th/id/OIG3.OgwyJQeh1AW6I9S8YTpp?pid=ImgGn" alt="img" width="400" height="400"></img>
-</div>
-
 <hr/>
 
 ## The challenges of finding alternatives (and purpose)
@@ -82,11 +77,6 @@ I wonder what a GPT tool would suggest about these entries, but let's not wonder
 
 I won't deny, these answers are a bit generic, but seem well intentioned. Maybe I should add point 6 to improve my prompting skills to extract better recommendations. Maybe point 7 would be: be an activist of regulating AI and intellectual property? My master's thesis (with a flawed English) focused on the challenges IP had in my country due to piracy... seems about right to take another dive into the topic.
 
-<div align="right">
-  Here's an inaccurate image copilot made for me:<br/>
-  <img src="https://tse4.mm.bing.net/th/id/OIG3.YjrqJfe1bsejrrNiDMpI?pid=ImgGn" alt="img" width="400" height="400"></img>
-</div>
-
 <hr/>
 
 ## Back and almost sad
@@ -94,11 +84,6 @@ I won't deny, these answers are a bit generic, but seem well intentioned. Maybe 
 So, over a couple of weeks, while traveling home, I could see something; I cannot call it either nerve-wrecking or heartbreaking, it is just an upsetting sight. I went back and came to see that things have not changed much. I love change, it is annoyingly painful, it is uncomfortable, it is full of unknowns, but it is necessary. I see my country policing is trying to hold on to old ideas while the population is trying to move on. I saw that throwing money without planning to the aches we have as society is doing more harm than good. Now, I come back with a sense of gratefulness on what it means to have opportunities and I wish my land had a few things back in their list of priorities: tolerance, opportunity, education, respect and a sense of criticism. I hope at some point, my fellow nationals exchange handouts for any of these.
 
 Anyways, I am back, I am thankful for the clean air and for seeing another week, one which I am quite eager for it to start.
-
-<div align="right">
-  Here's an inaccurate image copilot made for me:<br/>
-  <img src="https://tse3.mm.bing.net/th/id/OIG3.UxUvCH01jUHmU8hbdqbn?pid=ImgGn" alt="img" width="400" height="400"></img>
-</div>
 
 <hr/>
 
@@ -129,12 +114,7 @@ This sounds like a tough case of building as you need (or better said as you ear
 - Make it solid
 - Make it easy to scale
 
-<div align="right">
-  Here's an inaccurate image copilot made for me:<br/>
-  <img src="https://tse4.mm.bing.net/th/id/OIG3.avFV7utNbo4NmXjSrVA0?pid=ImgGn" alt="img" width="400" height="400"></img>
-</div>
-
-I wish I had some solar panels installed in it... something tells me they would only fit in the garage.
+I wish I had some solar panels installed in it... something tells me they would end up being installed in the garage (lol).
 
 <hr/>
 
@@ -150,13 +130,6 @@ Did you attend a course? have conversation starters with people with the same in
 
 I think making the platform a place for sharing ideas on topics they care about (not where you infer they are experts) and giving them the whole package for landing a job rather than just getting the first step done is far more important than having short videos. But well, this is the world we live in and catching up with the rest is the name of the game for now.
 
-No AI drawing this time.
-
-<div align="right">
-  Just kidding. Here's an inaccurate image copilot made for me:<br/>
-  <img src="https://tse1.mm.bing.net/th/id/OIG1.OymrZ8ikNqPwZEtu6SS9?pid=ImgGn" alt="img" width="400" height="400"></img>
-</div>
-
 <hr/>
 
 ## Going home
@@ -164,11 +137,6 @@ No AI drawing this time.
 After 5 long years (that felt like 10), I am going home. I came to the US with close to no idea on how life would be and as challenging it has been, it has been the opportunity of a lifetime. I regret not having done more of this time, cannot admit I was complacent, however the opportunities and the migratory situation hardly aligned so I did as much as my situation, intellect and skill allowed me, and it was as people likes to say: a net positive. I made a bunch of mistakes, I became more dedicated, unfortunately I made no close friends but I got many new acquaintances, I went through a lot and I learned a vast amount of things, a new working culture (Silicon Valley one), a different community, a whole different set of rules, a whole different way of doing things, I became more critical on many subjects, I kind of fell in love with what America can offer (not to say its astonishing national parks) I truly enjoyed contributing to the American economy and learning what opportunity can actually bring in people's life. It was eye opening from the first day. I am deeply grateful to my employer and of course, to the land of the free.
 
 My mind is filled with gratitude and a bit of anxiety on what's to come... but I am going home.
-
-<div align="right">
-  Here's an inaccurate image copilot made for me:<br/>
-  <img src="https://tse1.mm.bing.net/th/id/OIG4.SQIK30ab9s6S48NFYxHK?pid=ImgGn" alt="img" width="400" height="400"></img>
-</div>
 
 <hr/>
 
@@ -181,11 +149,6 @@ Having purpose often conflicts with our perception on what a successful life is 
 Many of us are born with talent. That is the big differentiator between being good at something and being great. Yet talent is like color in a gemstone. A white gemstone will be less attractive than a red one, but it is only until the white one is cut, and polished that it overcomes the lack of color and it becomes sought after. Yes, the same or even more can be achieved with the red one, but it is the work that's put into them that gives them the additional value. Doing things is shaping, is inspiring and it is the only way to fail often enough that we can actually claim expertise.
 
 Is this suggesting doing anything is useful? Well, I think, it really depends on what use we want of it. Oftentimes we just want to grind for the sake of breaking away and feel like we achieved something. Other times, we are preparing for a greater task and end up finding that the preparation was the greater task itself. So what am I trying to say anyway? That even when a task sucks you should do it, that you should always be busy, that doing things is the best time to learn and that it is only when you do things that you find real joy, because it is only when you are doing things that you find purpose and maybe for us with our finite amount of time, is the shortest path to find success.
-
-<div align="right">
-  Here's an inaccurate image copilot made for me:<br/>
-  <img src="https://tse1.mm.bing.net/th/id/OIG1.r6NucxBtMkqLQNqb1QyM?pid=ImgGn" alt="img" width="400" height="400"></img>
-</div>
 
 <hr/>
 
@@ -200,11 +163,6 @@ Now that I go into a new life event I wanted to make a list of regrets that I ha
 5. Not moving early enough. As absurd as it may sound, a long tenure in this place is not a good sign of a healthy career. Even when I still believe I came to work for one of the best if not the best working culture in the valley, but missed many others. Yes, FAANG can mean many things: an easy entry to other jobs, a way to get a great salary, a golden ticket in a resume, but above all of that, it means working with brilliant people and sticking to one place of course has the trade off of missing the opportunity to learn from other great minds.
 6. Going into survival mode. We have often heard about how difficult situations bring great opportunities. I got to experience this in person when COVID hit. I think most of the greatest opportunities happened as we panicked and went into a lock down. I think among the best opportunities I passed on due to the struggle of either taking risks or trying to get out of it alive I missed the opportunity to pursue a promotion with little friction. I missed the opportunity to move to an affordable city where my cost of life would greatly decrease. I missed the opportunity to experience working in a Nordic country. Yes, I got the jab. Yes, I met dire circumstances (loss of loved ones). But looking back, the big loss I see is getting more invested in trading meme stocks rather than investing in placing myself where opportunity was.
 My list could grow larger, but overall, as I write these lines I come to a simple conclusion: my regrets are all around not being available to opportunities. I think writing is a great way to understand our life decisions so even when this is admitting flaws in my judgment during multiple situations, I have zero regrets about writing this entry.
-
-<div align="right">
-  Here's an inaccurate image copilot made for me (it took me some time to get the prompt right this time, yet I wished for a better font):<br/>
-  <img src="https://tse1.mm.bing.net/th/id/OIG4.Zq_KCJAn6fCPXFDW2.eo?pid=ImgGn" alt="img" width="400" height="400"></img>
-</div>
 
 <hr/>
 
