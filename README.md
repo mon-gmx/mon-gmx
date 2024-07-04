@@ -11,11 +11,6 @@ I have been lucky enough to have an education at many levels in many countries a
 
 I may come back here from time to time and speak of things I have in my mind. I don't contribute to any other social media platforms, I like to be the only loon in my feed, so yeah that's it.
 
-<div align="right">
-  Here's an inaccurate image copilot made for me:<br/>
-  <img src="https://github.com/mon88-mx/mon88-mx/assets/143756997/d8aac3b9-0949-412e-839c-c49e24b9ecc4" alt="img" width="400" height="400"></img>
-</div>
-
 <hr/>
 
 ## Simple
