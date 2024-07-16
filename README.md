@@ -180,3 +180,7 @@ Just like the title says, tomorrow marks the first month since I came back to my
 ### Missing America
 
 America is a difficult place. It is a country that is build to test you, the place where you can be the best version of yourself and the place where you can meet your worst fate. Yet I think America is unique and I miss a lot from it. I don't miss its savage health system or its weirdness regarding races and mindsets. I miss what freedom means there, I miss its people and I miss what its people made of it. I don't feel sorry or regretful about leaving America, after all, my home is not there. I think America is a great example of what a country can be except it is hard to understand it unless you've been there for longer than a vacation. The love of the land, the make it work no matter what, the do it right and do it best mindsets are what I miss the hardest. I wish my country had some vague resemblance to those ideas, but hey, not everywhere is the same.
+
+### Back from a break
+
+So I'm back from a break. I'd like to say rested, but lately rest has different meanings to me. I'm in a long break so you don't take breaks from breaks. It was more of a disconnect from my new city, trying to get a new place (didn't work, no good offers), so at least my patience drain was somehow fixed while gone. Now, I'm up for searching to stop my break and do more stuff. Yes, I've been doing things here and there, but looking forward to have a more solid plan before the year ends. In the meantime, I do some code golfind and tiny projects because why not?
