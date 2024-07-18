@@ -187,3 +187,4 @@ So I'm back from a break. I'd like to say rested, but lately rest has different 
 * Go ⏳
 * Flink ❔
 * Airflow ✔️
+* Jenkins ✔️
