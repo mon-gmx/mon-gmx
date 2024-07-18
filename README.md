@@ -159,6 +159,10 @@ My list could grow larger, but overall, as I write these lines I come to a simpl
 
 <hr/>
 
+## Consuming the weather.
+
+This is not a technical doc, yet tech is what I do. I don't intend to write a post with lot of instructions and code. Today after some back and forth got to write a consumer (to be run using airflow) capable of querying the national weather service (no API here in Mexico but a humongous compressed JSON), parsing my location and posting this as CSV for a consumer in my grafana instance (infinity). I can say this is fun to do, not frustrating but it requires some thinking. I feel like coming back to doing stuff, I am dumping all in my poor raspberries (which is why I got them anyway) which I fry from time to time. Anyway, fun times ahead. I'm back at getting busy and I love having no pressure to please, just do, just push it.
+
 ## Small bursts.
 
 This is a section I plan on dedicating to small bursts of comments. I often like to add my opinion and illustrate it with the help of copilot, while I enjoy doing that, it is time consuming and I want to be thoughtful about what I write, yet I need to drop some thoughts from time to time and probably here is the right place, so a section is born (?), I am still not interested in making this a github.io page the less moving to a content provider (and of course not getting a domain, that's pricey when done right).
@@ -188,3 +192,4 @@ So I'm back from a break. I'd like to say rested, but lately rest has different 
 * Flink ❔
 * Airflow ✔️
 * Jenkins ✔️
+  
