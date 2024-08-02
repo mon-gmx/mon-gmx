@@ -192,7 +192,10 @@ America is a difficult place. It is a country that is build to test you, the pla
 
 So I'm back from a break. I'd like to say rested, but lately rest has different meanings to me. I'm in a long break so you don't take breaks from a break. It was more of a disconnect from my new city, trying to get a new place (didn't work, no good offers), so at least my patience drain was somehow fixed while gone. Now, I'm up for searching to stop my break and do more stuff. Yes, I've been doing things here and there, but looking forward to have a more solid plan before the year ends. In the meantime, I do some code golfing and tiny projects because why not? Because I write this for myself here are some areas where I want to put some time:
 * Go ⏳
-* Flink ❔
+* Flink ⏳
 * Airflow ✔️
 * Jenkins ✔️
-  
+
+### I am done with "coding" interviews
+
+Yes I am one more of those guys. I am tired of leetcode/hackerrank interviews. I see no benefit on them other than stress the shit out of a person to no good end. I would say I am the same as happy doing these interviews as I am replacing small services using the kubernetes behemoth. Two of the most enjoyable inteviewing processes I had (and memorable since they really demanded more skills than momeorizing algorithms or snooping over the answers tab) were with Klarna and Wizeline; Klarna asked me not only to provide complex functions but to actually write a service to query those functions and emit metrics for them (2 days given for the task) and Wizeline asked me to write a function in a language they invented so they could evaluate my ability to learn and work with what I learned. I wish I could mention Apple, Amazon, Google, Microsoft of Meta here, but nope, they all do the same silly dance, so I dare to say that I don't see this inventive anywhere in big tech, I know, the process was created to pick the brightest but just as with immigration, it is gamed and not fun at all. So I am done with this non-sense, even if I have to give up my career, I think this is not helpful and I am backing off from contributing further to it.
