@@ -179,7 +179,7 @@ Recently I got this as feedback from an inteview: _"Your internet connection see
   Type=simple
   User=speedtest
   WorkingDirectory=/var/lib/speedtest
-  ExecStart=/var/lib/speedtest/venv/bin/python /var/lib/speedtest/speedtest_metrics.py
+  ExecStart=/var/lib/speedtest/venv/bin/python /var/lib/speedtest/speed_test_sensors.py
   Restart=on-abort
 
   [Install]
