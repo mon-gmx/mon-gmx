@@ -186,7 +186,7 @@ Recently I got this as feedback from an inteview: _"Your internet connection see
   WantedBy=multi-user.target
 ```
 
-got me monitoring my speed in no time. Now to what matters: it is not my connection the one that sucks, yes, it is slow to today's standards, but never degraded below the 90Mbps in any direction, and that's why data triumps everything and why observability is a must whenever dealing with problems where the root cause is not so evident. Will I dig further here? Hell yes, I have `iperf` measuring different latencies between different antennas (my network is simple: `modem -> router -> repeaters (mesh) -> computers`).
+got me monitoring my speed in no time. Now to what matters: it is not my connection the one that sucks, yes, it is slow by today's standards, but never degraded below the 90Mbps in any direction, and that's why data triumps everything and why observability is a must whenever dealing with problems where the root cause is not so evident. Will I dig further here? Hell yes, I have `iperf` measuring different latencies between different antennas (my network is simple: `modem -> router -> repeaters (mesh) -> computers`).
 
 <hr/>
 
