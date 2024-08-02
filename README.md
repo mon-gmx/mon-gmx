@@ -129,7 +129,7 @@ I think making the platform a place for sharing ideas on topics they care about 
 
 After 5 long years (that felt like 10), I am going home. I came to the US with close to no idea on how life would be and as challenging it has been, it has been the opportunity of a lifetime. I regret not having done more of this time, cannot admit I was complacent, however the opportunities and the migratory situation hardly aligned so I did as much as my situation, intellect and skill allowed me, and it was as people likes to say: a net positive. I made a bunch of mistakes, I became more dedicated, unfortunately I made no close friends but I got many new acquaintances, I went through a lot and I learned a vast amount of things, a new working culture (Silicon Valley one), a different community, a whole different set of rules, a whole different way of doing things, I became more critical on many subjects, I kind of fell in love with what America can offer (not to say its astonishing national parks) I truly enjoyed contributing to the American economy and learning what opportunity can actually bring in people's life. It was eye opening from the first day. I am deeply grateful to my employer and of course, to the land of the free.
 
-My mind is filled with gratitude and a bit of anxiety on what's to come... but I am going home. :house:
+My mind is filled with gratitude and a bit of anxiety on what's to come... but I am going home! :house:
 
 <hr/>
 
@@ -169,7 +169,24 @@ This is not a technical doc, yet tech is what I do. I don't intend to write a po
 
 ## Is my connection the issue?
 
-Recently I got this as feedback from an inteview: Your internet connection seems poor. I was concerned about it since I want to work remotely when the chance is there without driving my family crazy by hogging the network. I knew I had 150 symmetric Mbps, so what's wrong then? Well, I had no clue, but I could start by monitoring and a quick search got me this neat python library: [speedtest-cli](https://github.com/sivel/speedtest-cli/wiki), so the nerd in me took the chance to write a prometheus sensor and poll the metric constantly. I wrote a non-prod-ready **[gist](https://gist.githubusercontent.com/mon-gmx/8b70cc44a4bf37c0015db1000fb83abc/raw/24ab84640b7c25dc11d002b9940f59f6a8ce7dae/speed_test_sensors.py)** for that matter that paired to a systemd service got me monitoring my speed in no time. Now to what matters: it is not my connection the one that sucks, yes, it is slow to today's standards, but never degraded below the 90Mbps in any direction.
+Recently I got this as feedback from an inteview: _"Your internet connection seems poor"_. I was concerned about it since I want to work remotely when the chance is there without driving my family crazy by hogging the network. I knew I had 150 symmetric Mbps, so what's wrong then? Well, I had no clue, but I could start by monitoring and a quick search got me this neat python library: [speedtest-cli](https://github.com/sivel/speedtest-cli/wiki), so the nerd in me took the chance to write a prometheus sensor and poll the metric constantly. I wrote a non-prod-ready **[gist](https://gist.githubusercontent.com/mon-gmx/8b70cc44a4bf37c0015db1000fb83abc/raw/24ab84640b7c25dc11d002b9940f59f6a8ce7dae/speed_test_sensors.py)** for that matter that paired to a systemd service:
+
+```
+  [Unit]
+  Description=speedtest
+
+  [Service]
+  Type=simple
+  User=speedtest
+  WorkingDirectory=/var/lib/speedtest
+  ExecStart=/var/lib/speedtest/venv/bin/python /var/lib/speedtest/speedtest_metrics.py
+  Restart=on-abort
+
+  [Install]
+  WantedBy=multi-user.target
+```
+
+got me monitoring my speed in no time. Now to what matters: it is not my connection the one that sucks, yes, it is slow to today's standards, but never degraded below the 90Mbps in any direction, and that's why data triumps everything and why observability is a must whenever dealing with problems where the root cause is not so evident. Will I dig further here? Hell yes, I have `iperf` measuring different latencies between different antennas (my network is simple: `modem -> router -> repeaters (mesh) -> computers`).
 
 <hr/>
 
