@@ -165,6 +165,9 @@ This is not a technical doc, yet tech is what I do. I don't intend to write a po
 
 ![image](https://github.com/user-attachments/assets/6f3edbe8-c93d-4a5f-9f4f-b6ef48721d30)
 
+## Is my connection the issue?
+
+Recently I got this as feedback from an inteview: Your internet connection seems poor. I was concerned about it since I want to work remotely when the chance is there without driving my family crazy by hogging the network. I knew I had 150 symmetric Mbps, so what's wrong then? Well, I had no clue, but I could start by monitoring and a quick search got me this neat python library: [speedtest-cli](https://github.com/sivel/speedtest-cli/wiki), so the nerd in me took the chance to write a prometheus sensor and poll the metric constantly. I wrote a non-prod-ready **[gist](https://gist.githubusercontent.com/mon-gmx/8b70cc44a4bf37c0015db1000fb83abc/raw/24ab84640b7c25dc11d002b9940f59f6a8ce7dae/speed_test_sensors.py)** for that matter that paired to a systemd service got me monitoring my speed in no time. Now to what matters: it is not my connection the one that sucks, yes, it is slow to today's standards, but never degraded below the 90Mbps in any direction.
 
 ## Small bursts
 
