@@ -195,7 +195,7 @@ got me monitoring my speed in no time. Now to what matters: it is not my connect
 
 ## Small bursts
 
-This is a section I plan on dedicating to small bursts of comments. I often like to add my opinion and illustrate it with the help of copilot, while I enjoy doing that, it is time consuming and I want to be thoughtful about what I write, yet I need to drop some thoughts from time to time and probably here is the right place, so a section is born (?), I am still not interested in making this a github.io page the less moving to a content provider (and of course not getting a domain, that's pricey when done right).
+This is a section I plan on dedicating to small bursts of comments. I often like to add my opinion and even illustrate using AI generated images (although they have been quite sloppy lately), while I enjoy doing that, it is time consuming and I want to be thoughtful about what I write, yet I need to drop some thoughts from time to time and probably here is the right place, so a section is born (?), I am still not interested in making this a github.io page the less moving to a content provider (and of course not getting a domain, that's pricey when done right).
 
 ### DevOps is not SRE, or is it?
 
