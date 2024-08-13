@@ -72,7 +72,7 @@ I won't deny, these answers are a bit generic, but seem well intentioned. Maybe 
 
 <hr/>
 
-## Back and almost sad
+## Back
 
 So, over a couple of weeks, while traveling home, I could see something; I cannot call it either nerve-wrecking or heartbreaking, it is just an upsetting sight. I went back and came to see that things have not changed much. I love change, it is annoyingly painful, it is uncomfortable, it is full of unknowns, but it is necessary. I see my country policing is trying to hold on to old ideas while the population is trying to move on. I saw that throwing money without planning to the aches we have as society is doing more harm than good. Now, I come back with a sense of gratefulness on what it means to have opportunities and I wish my land had a few things back in their list of priorities: tolerance, opportunity, education, respect and a sense of criticism. I hope at some point, my fellow nationals exchange handouts for any of these.
 
