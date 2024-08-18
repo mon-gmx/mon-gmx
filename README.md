@@ -217,7 +217,7 @@ America is a difficult place. It is a country that is built to test you, the pla
 ### Back from a break
 
 So I'm back from a break. I'd like to say rested, but lately rest has different meanings to me. I'm on a long break so you don't take breaks from a break. It was more of a disconnect from my new city, trying to get a new place (didn't work, no good offers), so at least my patience drain was somehow fixed while gone. Now, I'm up for searching to stop my break and do more stuff. Yes, I've been doing things here and there, but looking forward to having a more solid plan before the year ends. In the meantime, I do some code golfing and tiny projects because why not? Because I write this for myself here are some areas where I want to put some time:
-* Go 📈 (3 out of 5 weeks)
+* Go 📈 (4 out of 5 weeks)
 * Flink ⏳
 * Airflow ✔️
 * Jenkins ✔️
@@ -233,3 +233,7 @@ So I just can say, I am an idiot when it comes to working with NodeJS. I started
 ### The challenge of picking a topic... or more than one
 
 As I take my time to learn, I can brag my understanding of Golang has improved drastically, but just as I push myself to learn the language, I feel the urge to learn other technologies. Node, Playwright, Flink, Terraform, Helm and the list goes on; unfortunately the list can be as long as the day but my capacity is limited. Learning Go for the 5th time in my lifetime has been a challenge. Normally I would go through the basics, but never looked further and what it takes to make something other than a tutorial. I found a bunch of good resources and I am learning to write some metrics through a server but Go is more than a handy native HTTP server. So this is my way to vent the frustration it causes me to try to play catchup with all the things I'd like to get better at with a limited amount of time and attention span, because even if I manage to get 16 hours in the day to focus on learning, I don't think I can borrow from my brain its capacity beyond 4 hours. I know this can be solved through priorities and time, let's see how things change.
+
+### The joy of getting something
+
+So just typing this as I can say things finally sunk in a couple topics I was struggling to get right. Yes, I'm still a dumb noob in both but the feeling of acomplishnes reminds me on when you get that lift after trying for weeks and out of thin air it just happens.
