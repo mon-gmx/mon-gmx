@@ -236,4 +236,4 @@ As I take my time to learn, I can brag my understanding of Golang has improved d
 
 ### The joy of getting something
 
-So just typing this as I can say things finally sunk in a couple topics I was struggling to get right. Yes, I'm still a dumb noob in both but the feeling of acomplishnes reminds me on when you get that lift after trying for weeks and out of thin air it just happens.
+So just typing this as I can say things finally sunk in for a couple topics I was struggling to get right. Yes, I'm still a dumb noob in both but the feeling of acomplishment reminds me on when you get that lift after trying for weeks and out of thin air it just happens, except  it is not thin air, but persistance.
