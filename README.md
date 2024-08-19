@@ -190,6 +190,83 @@ got me monitoring my speed in no time. Now to what matters: it is not my connect
 
 ![image](https://github.com/user-attachments/assets/cf43a151-92e6-4a1b-9288-5a0eeb6b94d1)
 
+<hr/>
+
+## Solving a heat problem
+
+This is a small post that could as well go into the bursts one but I want it here for reasons.
+
+### The problem
+
+My tiny home lab consists of 4 raspberry pi 4B boards. They are awesome, I have managed to get them to run all kinds of things, a development sandbox, a DNS, a Grafana server, a Prometheus server, a Jenkins server, a CUPS server, a Samba server and the list goes on. Utilization brings these tiny boards to produce heat and well, heat is not good when it is too much. Reading through manuals and online articles, I find that the ideal temperature for my boards should oscillate in the 50-60 degrees Celsius (120-140). So far so good, having them connected produces heat but having them lying around gets them enough air to reach those 50 degrees without going haywire except for: 
+  a) I have 4 boards and not much space for them.
+  b) It gets dusty pretty quick here.
+  c) Having them somewhere on the floor will make them a perfect meal for my vacuum.
+
+So as the stubborn person I am, I stacked them. This reduces the surface where dust can accumulate and cause more problems but makes it hard to work with them individually, thus, anything I do with the new pack of heat and bits has to be done as a whole.
+
+### First run
+
+So since I stacked my berries, I had a block of acrylic plates bolted with a hub at the bottom of it, something like this:
+
+![image](https://github.com/user-attachments/assets/2349d279-2587-4d4a-93f3-213729876fc5)
+
+It was a great first run, except that I needed 10 wires going around. It would not matter much except that traditional ethernet cables are thick and 5 of them (1 needs to go to the router) makes it hard to maneuver. Heat was not great either, it was always around 70C when exposed so something needed to be done. And I did. I got myself a $5.00 USB fan and attached it... so yes, another cable. At first it was OK, except that fans are noisy. Must mention here that stacking them included no fans but it did include heat sinks so at least some passive thermal dissipation took place, just not enough. The outcome of this first run was 45C. Since the noise was annoying I tried to get some balance in this setup and added a script to turn on and off the fan according to the temps; if the heat reaches 70C: fan on, if it cools down below 40: fan off. But will that wear my board faster? No idea, I was not up for figuring it out and noise was still coming back every ~30 minutes so not great.
+
+![Screenshot 2024-07-09 101448](https://github.com/user-attachments/assets/430e1cda-b733-4ee3-bb22-d46287415e7c)
+
+### Second run
+
+After I moved, I wanted to get my cluster back online ASAP. Though, I had to get a place first for it to sit. I ended up choosing the TV stand, where modem, consoles and other items would sit. I found a not so secluded cupboard and in it went. Cable management became a nightmare though and the fan was still a problem here. Fast forward I noticed something quite peculiar when doing some latency measurements, the hub was limiting the rates to 100Mbps and the wifi could reach 150, would that mean I should go wireless? Well, I gave it a try! The result was gaining some connection speed (the berries sit next to the router, so signal loss is not a concern here), and maybe a good 3 to 5 degrees below, yet not enough!
+
+![image](https://github.com/user-attachments/assets/e1a85117-19e0-438b-a6e3-3e1211b2a49c)
+
+### Third run
+
+At some point in here I lost my mind with the fan and decided I could let it just get hot. It was not the best decision ever, yet my boards didn't fry. They reached some toasty 80C so not great, but not the worst either, except, right now it is 20C here, so when we reach 35C (and we will), things will get out of control... something has to be done!
+
+I ended up using the blank space from the hub to put some air gaps between the berries, with less cables and less compacted heat things would get better, right? right?!
+
+![image](https://github.com/user-attachments/assets/5c041e17-9866-4aac-8a74-dfb52aa69434)
+
+Well turns out things got slightly better (70C better) and when I brought the fan, these boards dropped to a whopping 35C. But hey, I still had the fan. At this point, my berries block was crammed next to my router in a not so great configuration. I thought of adding a gap between boards but they didn't fit, so nope, this was the best I could achieve... was it though?
+
+Something interesting that I found is that I had a damn outlier here. One of the boards (which I acquired later) had a different SD card model, a slower one, but came to see that that exact one had the benefit of less heat... like 10C less heat. Odd enough, the outlier was slower in its read times, so the tradeoff for less heat was speed! huh? Well, I never noticed something off, but I don't benchmark their performance that often, but yeah, faster cards, more heat (take a note!)
+
+### Fourth run
+
+I decided to retry the gaps and all tricks to get rid of the fan, it was a complicated mission but I had to try it.
+
+My first solution was introducing gaps between boards and moving one board out of the stack. This was not the best strategy because cable management trouble came back, I had to find a way to move that USB (power) cable out of the way and sit the board somewhere else in a small space. Had I put it on top of the router, heat would have gone to the router too, but the result was not so bad, I started seeing a drop to 63C
+
+![image](https://github.com/user-attachments/assets/e7825270-43c9-496f-84bb-e224f5997752)
+
+Still the configuration was kind of shitty
+
+![image](https://github.com/user-attachments/assets/bd125d7d-6101-43f4-83e1-421af3d1807b)
+
+
+### Fifth run, a.k.a. now
+
+So the air gaps play an important role here, I needed to give those heatsinks some fresh air to do their job, but I noticed placement was important too. Until this point, the berries stack was sitting at a corner of a cupboard where I did drill holes for it to move heat out, but it was a corner nevertheless. I decided to redo the setup and move those boards to the front of the board. Back then, opening the door of this piece of furniture did nothing, but it could change, and it did. Part one of my plan: check!
+
+Part two of my plan was adding air gaps between the boards. Somewhere I mentioned I could not fit all boards with air gaps in between each of them, but I didn't mention an important detail, each acrylic plate had about 2 mm of thickness, so getting rid of some plates surely would help, except, the boards needed the plates to be secured into the stack, they were bolted there after all... but what if I just flip them? 
+
+![image](https://github.com/user-attachments/assets/6ef86375-13b1-407d-b1c1-72e0d38ae9fe)
+
+I ended up with smaller air gaps but I had them there nevertheless. Positioning also took away an important amount of heat because once I put things back in place I saw things staying close to 60C except that when the door went open, those desired 50C were achieved!
+
+![image](https://github.com/user-attachments/assets/a91ff437-829b-4e09-aadb-297a84590c6d)
+
+In the end I still think the fan is what is needed here, I can achieve those 35C wherever I sit my stack by just having the fan on, but it is nice to see that I can just decide to ditch the noise the fan brings and still find the optimal temperature for my tiny stack of computers to work.
+
+In the end this whole back and forth looks like this:
+
+![image](https://github.com/user-attachments/assets/567f0a01-fafe-4010-bf9d-2d2759b76de0)
+
+And well, nothing here would be possible without this important sensor output:
+
+`cat /sys/class/thermal/thermal_zone0/temp`
 
 <hr/>
 
