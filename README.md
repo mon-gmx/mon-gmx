@@ -245,7 +245,6 @@ Still the configuration was kind of shitty
 
 ![image](https://github.com/user-attachments/assets/bd125d7d-6101-43f4-83e1-421af3d1807b)
 
-
 ### Fifth run, a.k.a. now
 
 So the air gaps play an important role here, I needed to give those heatsinks some fresh air to do their job, but I noticed placement was important too. Until this point, the berries stack was sitting at a corner of a cupboard where I did drill holes for it to move heat out, but it was a corner nevertheless. I decided to redo the setup and move those boards to the front of the board. Back then, opening the door of this piece of furniture did nothing, but it could change, and it did. Part one of my plan: check!
@@ -267,6 +266,8 @@ In the end this whole back and forth looks like this:
 And well, nothing here would be possible without this important sensor output:
 
 `cat /sys/class/thermal/thermal_zone0/temp`
+
+Uh well, maybe this was not a small burst after all.
 
 <hr/>
 
