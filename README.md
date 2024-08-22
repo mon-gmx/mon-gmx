@@ -315,3 +315,14 @@ As I take my time to learn, I can brag my understanding of Golang has improved d
 ### The joy of getting something
 
 So just typing this as I can say things finally sunk in for a couple topics I was struggling to get right. Yes, I'm still a dumb noob in both but the feeling of acomplishment reminds me on when you get that lift after trying for weeks and out of thin air it just happens, except  it is not thin air, but persistance.
+
+### Reflection time
+
+Sorry this is not about the reflection concept where code analyzes its own structure (amazingly I was doing this once upon a time for an API without even knowing this had a name). This post will have a few lines I write for my future self. I would post this at LinkedIn if my ego was bigger, but since I'm probably the only reader here, this is for me.
+One of the things I had most trouble with when I moved to the valley was the "eat what you hunt" approach. I was used to having someone else bringing me a problem and then trying to solve it. Trying to find what is wrong without someone pointing it out can be dangerous, especially when applied outside your work, then you become arrogant, otherwise it is a blessing, because starting a business idea is not much different.
+Just the same comes when picking what you want for your future self (career wise). It is very easy to have someone else lay out a plan and go with it. But this deprives you both from introspective and the ability to fail. It is hard to define a list of things you don't want and it is important, but it is harder and probably more important to define a list of things that you want, because then the one responsible for choosing where you're taking your life and what to do when your plan fails becomes all yours.
+Don't go easy on learning. It is hard enough to figure out what to learn. Sometimes learning is driven by demand, sometimes by need and sometimes by curiosity. In any case identify when something is not serving you and also identify when your learning is limited. Don't wait for a need to come from somewhere else for starting to learn something, your learning will be limited maybe but it won't be useless. When you learn, don't settle for a tutorial, find a project, create a need and satisfy it.
+Move on. If things are not changing, if things are too comfortable, if things are too uncomfortable, move on. Let change happen.
+
+Future me, this is the idiot you were once ago. I wish you well.
+
