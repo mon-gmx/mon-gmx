@@ -295,7 +295,7 @@ America is a difficult place. It is a country that is built to test you, the pla
 ### Back from a break
 
 So I'm back from a break. I'd like to say rested, but lately rest has different meanings to me. I'm on a long break so you don't take breaks from a break. It was more of a disconnect from my new city, trying to get a new place (didn't work, no good offers), so at least my patience drain was somehow fixed while gone. Now, I'm up for searching to stop my break and do more stuff. Yes, I've been doing things here and there, but looking forward to having a more solid plan before the year ends. In the meantime, I do some code golfing and tiny projects because why not? Because I write this for myself here are some areas where I want to put some time:
-* Go 📈 (4 out of 5 weeks)
+* Go ✔️
 * Flink ⏳
 * Airflow ✔️
 * Jenkins ✔️
