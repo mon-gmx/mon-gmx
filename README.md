@@ -333,3 +333,8 @@ Future me, this is the idiot you were once ago. I wish you well.
 ### K8s lab runs smoother in WSL2
 
 Not much technicality here, all I came to write down is that creating a kubernetes lab cluster is way simpler using K3C than pushing it to K3S in different physical machines. I think the why here is simple, especially when working with raspberry machines: write speed is non-trivial in the subsystem and a disk is better suited than an SD (duh!). So This is me telling two stories, the first one on how I spend a few hours a day trying to get a better idea on kubernetes parts and where they break and the second is how can I just plug this into my existing hardware and roll. The second is how I came to find that the simplest way to manage a tiny four machine cluster (on-prem) is still Ansible and some patience. Yes, I lose the goodies from using containers, but in those tiny ass machines, the only thing I really care about is recovering my images when things go awry which is not often anyway. No rant here, I am just talking about my biased experience from the past couple of weeks.
+
+### Silly thing done in my free time
+
+For the lols, I did a map of my ups and down interviewing for the past 10+ years
+![image](https://github.com/user-attachments/assets/092a7d58-c6a1-4939-8442-2262e95e48f6)
