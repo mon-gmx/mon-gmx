@@ -336,5 +336,5 @@ Not much technicality here, all I came to write down is that creating a kubernet
 
 ### Silly thing done in my free time
 
-For the lols, I did a map of my ups and down interviewing for the past 10+ years... giving it some meaning: FAIL/PASS/WITHDRAWN, all happened post intervew, withdrawn means I passed but decided not to move on, fail means I got the boot and signed means well, it is in my resume.
+For the lols, I did a map of my ups and down interviewing for the past 10+ years... giving it some meaning: FAIL/PASS/WITHDRAWN, all happened after the listed step. Withdrawn means I passed but decided not to move on, fail means I got the boot and signed means well, it is in my resume.
 ![image](https://github.com/user-attachments/assets/092a7d58-c6a1-4939-8442-2262e95e48f6)
