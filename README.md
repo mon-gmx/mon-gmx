@@ -340,3 +340,9 @@ For the lols, I did a map of my ups and downs interviewing for the past 10+ year
 ![image](https://github.com/user-attachments/assets/7e12a53d-1f11-4473-aad5-204b25ec0ae9)
 
 What have I learned from this list? Well, a few things, like success when joining a top tier company depends on luck and some competence (yes, in that order), that had I've been luckier (and smarter) I wish those records were all green, that most of the times I have got rejected it was by a specific kind of people (no bias, just facts) and that to this day I am grateful for the opportunities.
+
+### Flask redirects
+
+So I just realized it has been close to zero the times I have ever used redirects in flask... So I did something about it. And also took the time to do some rate limiting in requests (a shitty one because it doesn't set time windows), but I was more interested in sharing context without sharing globals like the use of `g` which is hell when doing testing. Anyway, I am posting that in a gist since doing this in here is kind of foolish. I think I just got invested in the idea because I needed a break from the overload channels and paralellization that I've been struggling to master in Golang :hearts:.
+
+https://gist.github.com/mon-gmx/d358c166a38938bd7151ccca632ff3aa
