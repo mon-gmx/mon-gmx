@@ -343,6 +343,6 @@ What have I learned from this list? Well, a few things, like success when joinin
 
 ### Flask redirects
 
-So I just realized it has been close to zero the times I have ever used redirects in flask... So I did something about it. And also took the time to do some rate limiting in requests (a shitty one because it doesn't set time windows), but I was more interested in sharing context without sharing globals like the use of `g` which is hell when doing testing. Anyway, I am posting that in a gist since doing this in here is kind of foolish. I think I just got invested in the idea because I needed a break from the overload channels and paralellization that I've been struggling to master in Golang :hearts:.
+So I just realized it has been close to zero the times I have ever used redirects in flask... So I did something about it. And also took the time to do some rate limiting in requests (a shitty one because it doesn't set time windows), but I was more interested in sharing context without sharing globals like the use of `g` which is hell when doing testing. Anyway, I am posting that in a gist since doing this here is kind of too much. I think I just got invested in the idea because I needed a break from the overload channels and paralLelization that I've been struggling to master in Golang :hearts:
 
 https://gist.github.com/mon-gmx/d358c166a38938bd7151ccca632ff3aa
