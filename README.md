@@ -271,7 +271,7 @@ Uh well, maybe this was not a small burst after all.
 
 <hr/>
 
-## SRE needs to go away
+## SRE needs to go away (09/24)
 
 I have some years of experience as an SRE, years I have really enjoyed doing whatever I had to do as SRE, yet I think SRE needs to go away. This is kind of harsh coming from someone who believes in SRE as a noble role. It was not long ago where we had a division between development teams and operators. Add sysadmin to the mix and it was a hideous mess. We had a bad mix full of ego, limited understanding, extended expectations and lots of hurdles in the name of site-up. I have to start by saying I've taken all the roles here mentioned, no exceptions and I come to believe that when SRE was conceived, this was meant to fix a bunch of vices derivated from the mix I have just mentioned, however, when the term was coined it came with a big flaw, there were no boundaries set and if they were, they are in a [book](https://sre.google/sre-book/table-of-contents/) that hardly anyone has read from cover to cover, and since then, SRE means whatever the fuck those creating an SRE team have in mind, which often is: grab a handful of sysadmins capable of writing YAML, get them trained on how to use a cloud provider API and build a pipeline with any of the _"off the shelf"_ golden hammer that has a CNCF blessing.
 
@@ -292,7 +292,11 @@ In a perfect world would SRE exist then? I think all the concepts that Google (w
 
 Do I have anything left to say here? Well, word of advice: get rid of buzzwords, get rid of the next big thing, if you want to take away something from all this mess it is: build to scale, and building to scale **never** relies on a product. Get away from those content folks, the next great thing is always around the corner and you need curiosity to drive your organization, not good memory.
 
+
 <hr/>
+<hr/>
+
+
 
 ## Small bursts
 
@@ -302,7 +306,7 @@ This is a section I plan on dedicating to small bursts of comments. I often like
 
 This is a silly shitpost, but I want to share it because it is often used as a synonym and great people end up hating their duties due to the huge confusion Google created with this term. So wanna know the difference? I think I can summarize it in a few lines: SRE means engineers **obsessed** about site up, performance, service levels and whatever it takes to get there. Fix code? Yes, Fix infra? Yes, Fix monitoring? Of course! Negotiate service levels? Maybe. Automation? Yes! DevOps on the other hand is handling the power to run a service to its developers, no more sysadmin doing your dirty work. So essentially, it looks like DevOps should be doing SRE, right? I tend to see it the other way around, SRE will do the DevOps part to keep the lights on. DevOps (although it should not) focuses on the tools to make the show run smoothly from inception to deployment. So in real life what does it mean? Want the best, most badass container maniacs that can do CI/CD? get yourself a DevOps guy. Want to get your service fine tuned and focus on building at scale? Get yourself an SRE.
 
-### Desperation is fuel
+### I think desperation is fuel (and not in a good way)
 
 I try to steer away from discussing political issues when going online. There is no way to win and the outcome is never useful to create new ties. So I will only point out some traits that bring me to the thoughts that defined the title. During my lifetime I have been able to live in different countries; some were more tied to what we used to call the east and some that represent the west itself. I noticed that many of our systems, intentionally or not, are good enablers for people to make bad decisions that will result in desperation for them. Bad decisions paired with a poor education are catastrophic, despite this, it is easier to get in trouble than it is to get out of it, or better yet, not to get into it in the first place.
 I bite my tongue to provide specific examples that can be interpreted as criticism of a specific nation (it has never been my intention), but I think these few I will provide will resonate to many. You have access to egregious types of debt that limit the ability to make good decisions for yourself. You are at a constant risk of losing wealth, health or both with no easy recovery in sight. You are often pushed to pursue a poor quality of life in exchange for limited opportunity. Why am I writing these lines anyway? I am just reflecting on how easy it is to build desperation rather than prosperity in our current frameworks and how frightening this is knowing there is not much commitment to do things differently as we mostly (and reasonably nonetheless) run in this wild rat race that we call life.
@@ -311,7 +315,7 @@ I bite my tongue to provide specific examples that can be interpreted as critici
 
 Just like the title says, tomorrow marks the first month since I came back to my land. It has been super exhaustive. I had no idea on how many things we had to sort out, to fix, to get done and still we find everyday there's something else missing. Simply put, I've never been busier. I am happy to be back, I am happy to be busy and I hope for have yet more things to do in the near future because being busy is fuel for me. Along the things I had to sort out (including fixing many home owner shenanigans, I had the opportunity to put back to use my raspberry pi's cluster which has been didactic as usual; now I am in the search for projects that can put to good use the 80% CPU I have left for those few machines.
 
-### Missing America
+### What I miss from our life in America
 
 America is a difficult place. It is a country that is built to test you, the place where you can be the best version of yourself and the place where you can meet your worst fate. Yet I think America is unique and I miss a lot from it. I don't miss its savage health system or its weirdness regarding races and mindsets. I miss what freedom means there, I miss its people and I miss what its people made of it. I don't feel sorry or regret about leaving America, after all, my home is not there. I think America is a great example of what a country can be except it is hard to understand it unless you've been there for longer than a vacation. The love of the land, the make it work no matter what, the do it right and do it best mindsets are what I miss the hardest. I wish my country had some vague resemblance to those ideas, but hey, not everywhere is the same.
 
@@ -340,7 +344,7 @@ As I take my time to learn, I can brag my understanding of Golang has improved d
 
 So just typing this as I can say things finally sunk in for a couple topics I was struggling to get right. Yes, I'm still a dumb noob in both but the feeling of acomplishment reminds me on when you get that lift after trying for weeks and out of thin air it just happens, except  it is not thin air, but persistance.
 
-### Reflection time
+### Reflection time (07/24)
 
 Sorry this is not about the reflection concept where code analyzes its own structure (amazingly I was doing this once upon a time for an API without even knowing this had a name). This post will have a few lines I write for my future self. I would post this at LinkedIn if my ego was bigger, but since I'm probably the only reader here, this is for me.
 
@@ -354,28 +358,28 @@ Move on. If things are not changing, if things are too comfortable, if things ar
 
 Future me, this is the idiot you were once ago. I wish you well.
 
-### K8s lab runs smoother in WSL2
+### K8s lab runs smoother in WSL2 (08/24)
 
 Not much technicality here, all I came to write down is that creating a kubernetes lab cluster is way simpler using K3C than pushing it to K3S in different physical machines. I think the why here is simple, especially when working with raspberry machines: write speed is non-trivial in the subsystem and a disk is better suited than an SD (duh!). So This is me telling two stories, the first one on how I spend a few hours a day trying to get a better idea on kubernetes parts and where they break and the second is how can I just plug this into my existing hardware and roll. The second is how I came to find that the simplest way to manage a tiny four machine cluster (on-prem) is still Ansible and some patience. Yes, I lose the goodies from using containers, but in those tiny ass machines, the only thing I really care about is recovering my images when things go awry which is not often anyway. No rant here, I am just talking about my biased experience from the past couple of weeks.
 
-### Silly thing done in my free time
+### Silly thing done in my free time (08/24)
 
 For the lols, I did a map of my ups and downs interviewing for the past 10+ years...
 ![image](https://github.com/user-attachments/assets/7e12a53d-1f11-4473-aad5-204b25ec0ae9)
 
 What have I learned from this list? Well, a few things, like success when joining a top tier company depends on luck and some competence (yes, in that order), that had I've been luckier (and smarter) I wish those records were all green, that most of the times I have got rejected it was by a specific kind of people (no bias, just facts) and that to this day I am grateful for the opportunities.
 
-### Flask redirects
+### Flask redirects (08/24)
 
 So I just realized it has been close to zero the times I have ever used redirects in flask... So I did something about it. And also took the time to do some rate limiting in requests (a shitty one because it doesn't set time windows), but I was more interested in sharing context without sharing globals like the use of `g` which is hell when doing testing. Anyway, I am posting that in a gist since doing this here is kind of too much. I think I just got invested in the idea because I needed a break from the overload channels and paralLelization that I've been struggling to master in Golang :hearts:
 
 https://gist.github.com/mon-gmx/d358c166a38938bd7151ccca632ff3aa
 
-### In Chinese
+### In Chinese (08/24)
 
 I would put some time writing about kafka and how simple it is to use it (no, really! once you get it, it is a fantastic piece of technology), except that I am as knowledgeable as any other LinkedIn [ex]employee that didn't support the thousands of topics and hosts available there (kudos to the Kafka team saving the company from those horrific GCNs) and frankly most online material is good enough if you spend some time RTFM.
 So I come instead to complain and admire anyone who has been capable of learning Chinese. One of my free time activities besides reading, listening hip-hop, cleaning and binge watching is learning languages. As a Spanish speaker, the next easy choice would be either Portuguese or Italian... or French, and while I have actually put time on learning those, I find more valuable learning Chinese. So I am trying it for the past few months using Duolingo. My progress has been terribly slow, but I came to like it, except that I am not the best learner; I get words but I suck at reading. Maybe I'll try tiktok. Sike!
 
-### Being thorough pays off
+### Being thorough pays off (08/24)
 
 I am likely the less appropriate person to talk about thoroughness but I think not being lazy when delivering a simple project is always a good thing. When you craft with a minimum standard disregard the purpose you will find that your work shines by itself. I wanted to come and rant about a service where I noticed my PII was being leaked through the request via the URL, but I will just assume that the person who built it had no time to put things together in a proper fashion or simply they lacked the education that would elevate their craftsmanship, whatever the reason is, being thorough (educating yourself on how to write REST properly, how to send data, how to cypher and encode data or simply reading OWASP reports) matters… a lot!
