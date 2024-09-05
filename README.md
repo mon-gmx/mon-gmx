@@ -1,8 +1,8 @@
-# Hello world!
+# Hello world! (02/24)
 
 Hey there! you found my github account. While this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 account (closed). Feel like having a chat? you can open an issue in this repository, I know that is not very conventional, but it is the way I want it.
 
-## About me
+## About me (02/24)
 
 I have been a computer systems engineer for the past two decades. I have some knowledge in things like Operating Systems Administration, Software Development, Infrastructure Engineering and Site Reliability. All those catchy terms just mean I can deal with computers at a large number (I can also play with raspberries), write code to run them and understand what it takes to keep them running for more than a day.
 I have worked in the financial world, consulting, gaming and recently in the internet industry. I like to meet people although I am not the most extrovert and I like to spend time learning about things related to technology and the industries I work with. I enjoy mentoring, but I am more of a jack of all trades so I end up learning more from others.
@@ -13,7 +13,7 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 <hr/>
 
-## Simple
+## Simple (02/24)
 
 In the gist of many things going on lately around my own life I come close in contact with a lot of complaints about how things keep degrading in quality and surging in price and I keep reaching over and over again to the same conclusion: simple was, is and will always be better. Focusing on shells full of gimmicks tends to always give us the same outcome yet we often just don't get it. I usually am triggered by buzzwords like _slice and dice_ or _democratize_ but I come to really sympathize with this one: _enshitification_.
 
@@ -21,7 +21,7 @@ I like my code with zero boilerplate, my internet with zero limits, my services 
 
 <hr/>
 
-## The challenges of finding alternatives (and purpose)
+## The challenges of finding alternatives... and purpose (02/24)
 
 I have to start this entry by admitting how hard it is for me to write it. Like with many other things, I am rusty on writing. But I love the challenge of doing so. This along with other activities I enjoy doing likely don't produce me other sources of income yet I like to think they foster the skills to actually find those other sources.
 Being in a limited immigration status is a constraint that forces one to think how to do other things that in a better situation would actually unlock one from doing more things than having a job. I like my branch, don't get me wrong, I might not be the sharpest doing what I do, but I can defend myself well and get acquainted with skills needed to solve problems, in any case, we can get as creative as a task requires and our human urge for purpose can be overwhelming. What am I trying to say here?
@@ -72,7 +72,7 @@ I won't deny, these answers are a bit generic, but seem well intentioned. Maybe 
 
 <hr/>
 
-## Back
+## Back (02/24)
 
 So, over a couple of weeks, while traveling home, I could see something; I cannot call it either nerve-wrecking or heartbreaking, it is just an upsetting sight. I went back and came to see that things have not changed much. I love change, it is annoyingly painful, it is uncomfortable, it is full of unknowns, but it is necessary. I see my country policing is trying to hold on to old ideas while the population is trying to move on. I saw that throwing money without planning to the aches we have as society is doing more harm than good. Now, I come back with a sense of gratefulness on what it means to have opportunities and I wish my land had a few things back in their list of priorities: tolerance, opportunity, education, respect and a sense of criticism. I hope at some point, my fellow nationals exchange handouts for any of these.
 
@@ -80,7 +80,7 @@ Anyways, I am back, I am thankful for the clean air and for seeing another week,
 
 <hr/>
 
-## A few cues on how to build right
+## A few cues on how to build right (04/24)
 
 This is not a very thorough guide on how to do things right, but a retrospective on everything that can go wrong when things aren't done... right, right.
 
@@ -111,7 +111,7 @@ I wish I had some solar panels installed in it... something tells me they would 
 
 <hr/>
 
-## Back again
+## Back again (04/24)
 
 I wish I had something interesting to write about yet in preparation for doing better things with my time I just have my head somewhere else. Still I find the will to do some notes on things I'd like to see in my workplace anytime soon, since they are betting for having rails/shorts/vines... rather than leveraging their own base, here are my two cents:
 
@@ -125,7 +125,7 @@ I think making the platform a place for sharing ideas on topics they care about 
 
 <hr/>
 
-## Going home
+## Going home (04/24)
 
 After 5 long years (that felt like 10), I am going home. I came to the US with close to no idea on how life would be and as challenging it has been, it has been the opportunity of a lifetime. I regret not having done more of this time, cannot admit I was complacent, however the opportunities and the migratory situation hardly aligned so I did as much as my situation, intellect and skill allowed me, and it was as people likes to say: a net positive. I made a bunch of mistakes, I became more dedicated, unfortunately I made no close friends but I got many new acquaintances, I went through a lot and I learned a vast amount of things, a new working culture (Silicon Valley one), a different community, a whole different set of rules, a whole different way of doing things, I became more critical on many subjects, I kind of fell in love with what America can offer (not to say its astonishing national parks) I truly enjoyed contributing to the American economy and learning what opportunity can actually bring in people's life. It was eye opening from the first day. I am deeply grateful to my employer and of course, to the land of the free.
 
@@ -133,7 +133,7 @@ My mind is filled with gratitude and a bit of anxiety on what's to come... but I
 
 <hr/>
 
-## Why doing something matters
+## Why doing something matters (06/24)
 
 Once you reach a certain age you come to question everything you know and everything you believe in. Most of us did that when we were teenagers. But it happens again and unlike back when we were young, you do it with a different perspective. If you have been lucky enough to live through different ups and downs, the point of reference widens and the criticism on what's right, what's wrong and what can be changed kind of extends. It is a fascinating state of mind as a spectator, yet it is always good to have some retrospective and apply the same to ourselves. Then we question our purpose. I think when we do that, we understand the relevance of being busy, the relevance of feeling useful and even the relevance of getting things done no matter how nice or hideous they are to us, if we are fortunate enough to be able to choose to be occupied, that's a blessing overall, because the mind rarely settles.
 
@@ -145,7 +145,7 @@ Is this suggesting doing anything is useful? Well, I think, it really depends on
 
 <hr/>
 
-## Ragrets
+## Ragrets (06/24)
 
 Now that I go into a new life event I wanted to make a list of regrets that I have. I could deceivingly say I have none, but then I would have no lessons to take away with me, so at least regrets are reflections on decisions I could have made differently. So without further ado, I can start:
 
@@ -159,7 +159,7 @@ My list could grow larger, but overall, as I write these lines I come to a simpl
 
 <hr/>
 
-## Consuming the weather
+## Consuming the weather (07/24)
 
 This is not a technical doc, yet tech is what I do. I don't intend to write a post with a lot of instructions and code. Today after some back and forth got to write a consumer (to be run using airflow) capable of querying the national weather service (no API here in Mexico but a humongous compressed JSON), parsing my location and posting this as CSV for a consumer in my grafana instance (infinity). I can say this is fun to do, not frustrating but it requires some thinking. I feel like coming back to doing stuff, I am dumping all in my poor raspberries (which is why I got them anyway) which I fry from time to time. Anyway, fun times ahead. I'm back at getting busy and I love having no pressure to please, just do, just push it.
 
@@ -167,7 +167,7 @@ This is not a technical doc, yet tech is what I do. I don't intend to write a po
 
 <hr/>
 
-## Is my connection the issue?
+## Is my connection the issue? (07/24)
 
 Recently I got this as feedback from an interview: _"Your internet connection seems poor"_. I was concerned about it since I want to work remotely when the chance is there without driving my family crazy by hogging the network. I knew I had 150 symmetric Mbps, so what's wrong then? Well, I had no clue, but I could start by monitoring and a quick search got me this neat python library: [speedtest-cli](https://github.com/sivel/speedtest-cli/wiki), so the nerd in me took the chance to write a prometheus sensor and poll the metric constantly. I wrote a non-prod-ready **[gist](https://gist.githubusercontent.com/mon-gmx/8b70cc44a4bf37c0015db1000fb83abc/raw/24ab84640b7c25dc11d002b9940f59f6a8ce7dae/speed_test_sensors.py)** for that matter that paired to a systemd service:
 
@@ -192,7 +192,7 @@ got me monitoring my speed in no time. Now to what matters: it is not my connect
 
 <hr/>
 
-## Solving a heat problem
+## Solving a heat problem (08/24)
 
 This is a small post that could as well go into the bursts one but I want it here for reasons.
 
@@ -302,24 +302,24 @@ Do I have anything left to say here? Well, word of advice: get rid of buzzwords,
 
 This is a section I plan on dedicating to small bursts of comments. I often like to add my opinion and even illustrate using AI generated images (although they have been quite sloppy lately), while I enjoy doing that, it is time consuming and I want to be thoughtful about what I write, yet I need to drop some thoughts from time to time and probably here is the right place, so a section is born (?), I am still not interested in making this a github.io page the less moving to a content provider (and of course not getting a domain, that's pricey when done right).
 
-### DevOps is not SRE, or is it?
+### DevOps is not SRE, or is it? (05/24)
 
 This is a silly shitpost, but I want to share it because it is often used as a synonym and great people end up hating their duties due to the huge confusion Google created with this term. So wanna know the difference? I think I can summarize it in a few lines: SRE means engineers **obsessed** about site up, performance, service levels and whatever it takes to get there. Fix code? Yes, Fix infra? Yes, Fix monitoring? Of course! Negotiate service levels? Maybe. Automation? Yes! DevOps on the other hand is handling the power to run a service to its developers, no more sysadmin doing your dirty work. So essentially, it looks like DevOps should be doing SRE, right? I tend to see it the other way around, SRE will do the DevOps part to keep the lights on. DevOps (although it should not) focuses on the tools to make the show run smoothly from inception to deployment. So in real life what does it mean? Want the best, most badass container maniacs that can do CI/CD? get yourself a DevOps guy. Want to get your service fine tuned and focus on building at scale? Get yourself an SRE.
 
-### I think desperation is fuel (and not in a good way)
+### I think desperation is fuel... and not in a good way (05/24)
 
 I try to steer away from discussing political issues when going online. There is no way to win and the outcome is never useful to create new ties. So I will only point out some traits that bring me to the thoughts that defined the title. During my lifetime I have been able to live in different countries; some were more tied to what we used to call the east and some that represent the west itself. I noticed that many of our systems, intentionally or not, are good enablers for people to make bad decisions that will result in desperation for them. Bad decisions paired with a poor education are catastrophic, despite this, it is easier to get in trouble than it is to get out of it, or better yet, not to get into it in the first place.
 I bite my tongue to provide specific examples that can be interpreted as criticism of a specific nation (it has never been my intention), but I think these few I will provide will resonate to many. You have access to egregious types of debt that limit the ability to make good decisions for yourself. You are at a constant risk of losing wealth, health or both with no easy recovery in sight. You are often pushed to pursue a poor quality of life in exchange for limited opportunity. Why am I writing these lines anyway? I am just reflecting on how easy it is to build desperation rather than prosperity in our current frameworks and how frightening this is knowing there is not much commitment to do things differently as we mostly (and reasonably nonetheless) run in this wild rat race that we call life.
 
-### A month has gone by
+### A month has gone by (07/24)
 
 Just like the title says, tomorrow marks the first month since I came back to my land. It has been super exhaustive. I had no idea on how many things we had to sort out, to fix, to get done and still we find everyday there's something else missing. Simply put, I've never been busier. I am happy to be back, I am happy to be busy and I hope for have yet more things to do in the near future because being busy is fuel for me. Along the things I had to sort out (including fixing many home owner shenanigans, I had the opportunity to put back to use my raspberry pi's cluster which has been didactic as usual; now I am in the search for projects that can put to good use the 80% CPU I have left for those few machines.
 
-### What I miss from our life in America
+### What I miss from our life in America (07/24)
 
 America is a difficult place. It is a country that is built to test you, the place where you can be the best version of yourself and the place where you can meet your worst fate. Yet I think America is unique and I miss a lot from it. I don't miss its savage health system or its weirdness regarding races and mindsets. I miss what freedom means there, I miss its people and I miss what its people made of it. I don't feel sorry or regret about leaving America, after all, my home is not there. I think America is a great example of what a country can be except it is hard to understand it unless you've been there for longer than a vacation. The love of the land, the make it work no matter what, the do it right and do it best mindsets are what I miss the hardest. I wish my country had some vague resemblance to those ideas, but hey, not everywhere is the same.
 
-### Back from a break
+### Back from a break (07/24)
 
 So I'm back from a break. I'd like to say rested, but lately rest has different meanings to me. I'm on a long break so you don't take breaks from a break. It was more of a disconnect from my new city, trying to get a new place (didn't work, no good offers), so at least my patience drain was somehow fixed while gone. Now, I'm up for searching to stop my break and do more stuff. Yes, I've been doing things here and there, but looking forward to having a more solid plan before the year ends. In the meantime, I do some code golfing and tiny projects because why not? Because I write this for myself here are some areas where I want to put some time:
 * Go ✔️
@@ -328,23 +328,23 @@ So I'm back from a break. I'd like to say rested, but lately rest has different 
 * Airflow ✔️
 * Jenkins ✔️
 
-### My two cents on "coding" interviews
+### My two cents on "coding" interviews (07/24)
 
 Yes I am one more of those guys. I see no benefit to them other than stress the shit out of a person to no good end. I would say I am the same as happy doing these interviews as I am creating 1 machine cluster using kubernetes. Two of the most enjoyable interview processes I had (and memorable since they really demanded more skills than memorizing algorithms or snooping over the answers tab) were with Klarna and Wizeline; Klarna asked me not only to provide complex functions but to actually write a service to query those functions and emit metrics for them (2 days given for the task) and Wizeline asked me to write a function in a language they invented so they could evaluate my ability to learn and work with what I learned (no guy on the other side of the terminal). I wish I could mention Apple, Amazon, Google, Microsoft of Meta here, but nope, they all do the same silly dance, so I dare to say that I don't see this inventive anywhere in big tech, I know, the process was created to pick the brightest but just as with immigration, it is gamed and not fun at all. So I am done with this nonsense, even if I had to give up my career, I will always push back on it. Not saying puzzles are crap, they are not, but using them as the first step to filter out the competence of a candidate based on algorithms and problems that they may not need it's more of a bluff than a real need.
 
-### I'm a dork using node
+### I'm a dork using node (08/24)
 
 So I just can say, I am an idiot when it comes to working with NodeJS. I started using it recently and testing using Playwright and while I am happy about how much it sucks to know nothing about it, I am dumb using these. To the point I want to turn off my computer and go get mad with a rock for being a rock.
 
-### The challenge of picking a topic... or more than one
+### The challenge of picking a topic... or more than one (08/24)
 
 As I take my time to learn, I can brag my understanding of Golang has improved drastically, but just as I push myself to learn the language, I feel the urge to learn other technologies. Node, Playwright, Flink, Terraform, Helm and the list goes on; unfortunately the list can be as long as the day but my capacity is limited. Learning Go for the 5th time in my lifetime has been a challenge. Normally I would go through the basics, but never looked further and what it takes to make something other than a tutorial. I found a bunch of good resources and I am learning to write some metrics through a server but Go is more than a handy native HTTP server. So this is my way to vent the frustration it causes me to try to play catchup with all the things I'd like to get better at with a limited amount of time and attention span, because even if I manage to get 16 hours in the day to focus on learning, I don't think I can borrow from my brain its capacity beyond 4 hours. I know this can be solved through priorities and time, let's see how things change.
 
-### The joy of getting something
+### The joy of getting something (08/24)
 
 So just typing this as I can say things finally sunk in for a couple topics I was struggling to get right. Yes, I'm still a dumb noob in both but the feeling of acomplishment reminds me on when you get that lift after trying for weeks and out of thin air it just happens, except  it is not thin air, but persistance.
 
-### Reflection time (07/24)
+### Reflection time (08/24)
 
 Sorry this is not about the reflection concept where code analyzes its own structure (amazingly I was doing this once upon a time for an API without even knowing this had a name). This post will have a few lines I write for my future self. I would post this at LinkedIn if my ego was bigger, but since I'm probably the only reader here, this is for me.
 
