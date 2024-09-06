@@ -13,7 +13,7 @@ I may come back here from time to time and speak of things I have in my mind. I 
 
 <hr/>
 
-## Simple things FTW (02/24)
+## Simplicity is king in my world (02/24)
 
 In the gist of many things going on lately around my own life I come close in contact with a lot of complaints about how things keep degrading in quality and surging in price and I keep reaching over and over again to the same conclusion: simple was, is and will always be better. Focusing on shells full of gimmicks tends to always give us the same outcome yet we often just don't get it. I usually am triggered by buzzwords like _slice and dice_ or _democratize_ but I come to really sympathize with this one: _enshitification_.
 
