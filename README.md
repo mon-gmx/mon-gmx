@@ -375,11 +375,6 @@ So I just realized it has been close to zero the times I have ever used redirect
 
 https://gist.github.com/mon-gmx/d358c166a38938bd7151ccca632ff3aa
 
-### In Chinese (08/24)
-
-I would put some time writing about kafka and how simple it is to use it (no, really! once you get it, it is a fantastic piece of technology), except that I am as knowledgeable as any other LinkedIn [ex]employee that didn't support the thousands of topics and hosts available there (kudos to the Kafka team saving the company from those horrific GCNs) and frankly most online material is good enough if you spend some time RTFM.
-So I come instead to complain and admire anyone who has been capable of learning Chinese. One of my free time activities besides reading, listening hip-hop, cleaning and binge watching is learning languages. As a Spanish speaker, the next easy choice would be either Portuguese or Italian... or French, and while I have actually put time on learning those, I find more valuable learning Chinese. So I am trying it for the past few months using Duolingo. My progress has been terribly slow, but I came to like it, except that I am not the best learner; I get words but I suck at reading. Maybe I'll try tiktok. Sike!
-
 ### Being thorough pays off (09/24)
 
 I am likely the less appropriate person to talk about thoroughness but I think not being lazy when delivering a simple project is always a good thing. When you craft with a minimum standard disregard the purpose you will find that your work shines by itself. I wanted to come and rant about a service where I noticed my PII was being leaked through the request via the URL, but I will just assume that the person who built it had no time to put things together in a proper fashion or simply they lacked the education that would elevate their craftsmanship, whatever the reason is, being thorough (educating yourself on how to write REST properly, how to send data, how to cypher and encode data or simply reading OWASP reports) matters… a lot!
