@@ -367,7 +367,7 @@ Not much technicality here, all I came to write down is that creating a kubernet
 For the lols, I did a map of my ups and downs interviewing for the past 10+ years...
 ![image](https://github.com/user-attachments/assets/7e12a53d-1f11-4473-aad5-204b25ec0ae9)
 
-What have I learned from this list? Well, a few things, like success when joining a top tier company depends on luck and some competence (yes, in that order), that had I've been luckier (and smarter) I wish those records were all green, that most of the times I have got rejected it was by a specific kind of people (no bias, just facts) and that to this day I am grateful for the opportunities.
+What have I learned from this list? Well, a few things, like success when joining a top tier company depends on luck and some competence (yes, in that order), that had I've been luckier (and smarter) those records would all look green (I wish!), that most of the times I have got rejected it was by a specific kind of people (no bias, just facts) and that to this day I am grateful for the opportunities.
 
 ### Flask redirects (08/24)
 
