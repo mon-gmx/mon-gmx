@@ -145,7 +145,7 @@ Is this suggesting doing anything is useful? Well, I think, it really depends on
 
 <hr/>
 
-## Ragrets (06/24)
+## A list of r~e~agrets (06/24)
 
 Now that I go into a new life event I wanted to make a list of regrets that I have. I could deceivingly say I have none, but then I would have no lessons to take away with me, so at least regrets are reflections on decisions I could have made differently. So without further ado, I can start:
 
