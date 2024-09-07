@@ -1,6 +1,5 @@
-# Hello world!
 
-Hey there! you found my github account. While this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 account (closed). Feel like having a chat? you can open an issue in this repository, I know that is not very conventional, but it is the way I want it.
+Hey there! you found my github account. While this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 account (closed). 
 
 ## About me (02/24)
 
@@ -362,16 +361,9 @@ Future me, this is the idiot you were once ago. I wish you well.
 
 Not much technicality here, all I came to write down is that creating a kubernetes lab cluster is way simpler using K3C than pushing it to K3S in different physical machines. I think the why here is simple, especially when working with raspberry machines: write speed is non-trivial in the subsystem and a disk is better suited than an SD (duh!). So This is me telling two stories, the first one on how I spend a few hours a day trying to get a better idea on kubernetes parts and where they break and the second is how can I just plug this into my existing hardware and roll. The second is how I came to find that the simplest way to manage a tiny four machine cluster (on-prem) is still Ansible and some patience. Yes, I lose the goodies from using containers, but in those tiny ass machines, the only thing I really care about is recovering my images when things go awry which is not often anyway. No rant here, I am just talking about my biased experience from the past couple of weeks.
 
-### Silly thing done in my free time (08/24)
-
-For the lols, I did a map of my ups and downs interviewing for the past 10+ years...
-![image](https://github.com/user-attachments/assets/7e12a53d-1f11-4473-aad5-204b25ec0ae9)
-
-What have I learned from this list? Well, a few things, like success when joining a top tier company depends on luck and some competence (yes, in that order), that had I've been luckier (and smarter) those records would all look green (I wish!) and that to this day, I am grateful for the opportunities.
-
 ### Flask redirects (08/24)
 
-So I just realized it has been close to zero the times I have ever used redirects in flask... So I did something about it. And also took the time to do some rate limiting in requests (a shitty one because it doesn't set time windows), but I was more interested in sharing context without sharing globals like the use of `g` which is hell when doing testing. Anyway, I am posting that in a gist since doing this here is kind of too much. I think I just got invested in the idea because I needed a break from the overload channels and parallelization that I've been struggling to master in Golang :hearts:
+So I just realized it has been close to zero the times I have ever used redirects in flask... So I did something about it. And also took the time to do some rate limiting in requests (a shitty one because it doesn't set time windows or tracks requestor), but I was more interested in sharing context without sharing globals like the use of `g` which is hell when doing testing. Anyway, I am posting that in a gist since doing this here is kind of too much. I think I just got invested in the idea because I needed a break from the overload channels and parallelization that I've been struggling to master in Golang :hearts:
 
 https://gist.github.com/mon-gmx/d358c166a38938bd7151ccca632ff3aa
 
