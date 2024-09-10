@@ -90,11 +90,11 @@ I wanted to use some "features" of my house as analogies on how things are not b
 - The stairs turn 3 times and are surrounded by an iron handrail. It looks nice, except when you bring furniture larger than the first 5 steps, then you wish levitating was something we could do
 - The windows are an iron grid with plenty of panels of glass, their size is not standard. The inner side slides to the sides, but they are in a second and third story building. They can't be cleaned. They have no weather strips, they are heavy so they don't open
 - The closet doors slide with no rail guides. So they often misalign
-- Any shelves and cabinets are embedded in the walls. They cannot be unmounted and the walls are brick and mortar
+- Any shelves and cabinets are embedded in the walls. They cannot be unmounted without breaking something else and the walls are brick and mortar
 - The top level is a terrace. With no tilt. So rain floods the stairs
 - Rising dampness is no strange, but fixing it is not easy when there are no plans on the water lines
-- There are few power outlets, adding more is not a cut here, wire there kind of thing. Brick and mortar
-- The kitchen has no room for the appliances
+- There are few power outlets, adding more is not a cut here, wire there kind of thing. Brick and mortar ¯\_(ツ)_/¯
+- The kitchen has no room for the appliances, so a nice fridge with double doors unless it is a sticker on the wall it will not fit
 - Every bathroom is different, shape, color, size, you name it
 
 This sounds like a tough case of building as you need (or better said as you earn), yet the house is nice when things work. And this kind of reminds me of how things are built nowadays. They work fine as long as nothing external changes. It is also a nice reminder on things to keep in mind whenever we build things:
