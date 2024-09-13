@@ -291,6 +291,11 @@ In a perfect world would SRE exist then? I think all the concepts that Google (w
 
 Do I have anything left to say here? Well, word of advice: get rid of buzzwords, get rid of the next big thing, if you want to take away something from all this mess it is: build to scale, and building to scale **never** relies on a product. Get away from the contentment, the next great thing is always around the corner and you need curiosity to drive your organization, not doing by the book.
 
+## Receiving the gift feedback (09/24)
+
+Today was a good day. I had a screening call that went OK, however, this one was quite different because we closed with me getting feedback on the quality of my resume. Had I been younger or more stupid I would have not taken it well, but this was such a gift that I still feel glad I took this call. The older you get the less you get it for free. It will come from time to time, but as you get older, your filters grow thicker and well, obviously not everything passes through. So you need to stop and learn to listen. But listening is not easy either. We are in a place where loud means heard, and we all want to have a voice, if not this page would not even exist.
+
+I am used to get feedback and not ashamed to share that I get negative feedback often, or maybe I just choose to pay attention to the negatives more, I think that's a human condition after all. Anyway, back to the core of the conversation, today I rewrote my resume. I cannot say it was too hard (copilot helped me proof read it), but it was very satisfying to come back and go through all the things I have done, because as I was told, "I made a poor job showing that I had made any impact", and well, that did have an impact in me, and I am grateful for it.
 
 <hr/>
 <hr/>
