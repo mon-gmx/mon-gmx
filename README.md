@@ -375,3 +375,9 @@ https://gist.github.com/mon-gmx/d358c166a38938bd7151ccca632ff3aa
 ### Being thorough pays off (09/24)
 
 I am likely the less appropriate person to talk about thoroughness but I think not being lazy when delivering a simple project is always a good thing. When you craft with a minimum standard disregard the purpose you will find that your work shines by itself. I wanted to come and rant about a service where I noticed my PII was being leaked through the request via the URL, but I will just assume that the person who built it had no time to put things together in a proper fashion or simply they lacked the education that would elevate their craftsmanship, whatever the reason is, being thorough (educating yourself on how to write REST properly, how to send data, how to cypher and encode data or simply reading OWASP reports) matters… a lot!
+
+### Capacity (09/24)
+
+I will start this one by posting a term I forgot to mention in a recent conversation: **load testing**
+
+Capacity planning is a very interesting discussion; it requires to know where you're standing and where you're going. I just had a conversation where we discussed vertical vs. horizontal escalation. But the conversation can only start when you know where you are standing and for that understanding to happen, you need to know what are your current limits, that's where load testing comes into play. Yes, you will add buffering in different layers to disperse the load and you will break the problem you try to solve to improve your ability to scale, but that is step number two.
