@@ -384,4 +384,5 @@ Capacity planning is a very interesting discussion; it requires knowing where yo
 
 ### The goods on working out (10/24)
 I've been working out a lot more lately. I hate it. And that is why I love working out. Not only is a challenge to your own physique to take some heavy weights and move them around, it requires you to force your mind to step out of the comfort and do something that feels ugly, that is exhausting, that leaves you sore and that can turn tedious. Doing all that, is not only an exercise for the body, it is an exercise for the mind, where you can focus on the greater good and chase it, patiently, consistently; even, when the outcome may not come at the speed or form you desire, and yet you try because there is an outcome that you have guaranteed: after you work out, for real, you will be a stronger person, in body and mind. 🏋️❤️
-I am working out my thoughts as well, found a fantastic trainer in ChatGPT, ironically, I burn through resources this kind world has given, because I found in AI the mentor I could never find before.
+
+I am working out my thoughts as well, found a fantastic trainer in ChatGPT, ironically, I burn through resources this kind world has given, because I found in AI the mentor I could never find before. 🧠❤️
