@@ -268,9 +268,11 @@ And well, nothing here would be possible without this important sensor output:
 
 Uh well, maybe this was not a small burst after all.
 
-** Update: **
+### Update: (10/24)
 
 I would not expect to come back with an update, yet here I am. I changed a lot my cluster lately, primarily because I need no kubernetes cluster anymore, thus, I run simple services in simple boards, therefore, two are more than enough. I want to say I added a third for the sake of control, but the truth is that I wanted a Minecraft server which, of course, is not available for ARM64 in the Bedrock codebase. Anyway I added a third board back and just recently I noticed that without air pockets or weird configuration, all I needed to do was a vertical orientation in my block, so air can move upwards and I can get the temperature to hold in the 50 degree range. No fan noise, no power management back and forth, just flip them sideways and forget about them.
+
+![image](https://github.com/user-attachments/assets/f03cad1f-efc7-40e4-90eb-c64a3880ab78)
 
 <hr/>
 
