@@ -1,5 +1,5 @@
 
-Hey there! you found my github account. While this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 account (closed). 
+Hey there! You probably noticed this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 account (closed). 
 
 ## About me (02/24)
 
