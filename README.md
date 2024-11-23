@@ -1,7 +1,7 @@
 
 Hey there! You probably noticed this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 account (_now deactivated_). 
 
-## About me (02/24)
+### About me (02/24)
 
 I have been a computer systems engineer for the past two decades. I have some knowledge in things like Operating Systems Administration, Software Development, Infrastructure Engineering and Site Reliability. All those catchy terms just mean I can deal with computers at a large number (I can also play with raspberries), write code to run them and understand what it takes to keep them running for more than a day.
 I have worked in the financial world, consulting, gaming and recently in the internet industry. I like to meet people although I am not the most extrovert and I like to spend time learning about things related to technology and the industries I work with. I enjoy mentoring, but I am more of a jack of all trades so I end up learning more from others.
@@ -10,13 +10,13 @@ I have been lucky enough to have an education at many levels in many countries a
 
 I may come back here from time to time and speak of things I have in my mind. I don't contribute to any other social media platforms, I like to be the only loon in my feed, so yeah that's it.
 
-## Simplicity is king in my world (02/24)
+### Simplicity is king in my world (02/24)
 
 In the gist of many things going on lately around my own life I come close in contact with a lot of complaints about how things keep degrading in quality and surging in price and I keep reaching over and over again to the same conclusion: simple was, is and will always be better. Focusing on shells full of gimmicks tends to always have the same outcome yet we often just don't get it. I usually am triggered by buzzwords like _slice and dice_ or _democratize_ but I come to really sympathize with this one: _enshitification_.
 
 I like my code with zero boilerplate, my internet with zero limits, my services with zero subscriptions and the list goes on. I am not against progress, progress is good, that's why cars are safer and phones are faster, yet this decade all we get are flashy pinatas solving no problem, but the problem created to keep the greedy appeased. I never realized how much I miss what is simple and reliable. Screw those flashy trims and non-sense all glued together gadgets, let's go back to simple, there's where beauty of crafting lies, that's where we have control.
 
-## Is my connection the issue? (07/24)
+### Is my connection the issue? (07/24)
 
 Recently I got this as feedback from an interview: _"Your internet connection seems poor"_. I was concerned about it since I want to work remotely when the chance is there without driving my family crazy by hogging the network. I knew I had 150 symmetric Mbps, so what's wrong then? Well, I had no clue, but I could start by monitoring and a quick search got me this neat python library: [speedtest-cli](https://github.com/sivel/speedtest-cli/wiki), so the nerd in me took the chance to write a prometheus sensor and poll the metric constantly. I wrote a non-prod-ready **[gist](https://gist.githubusercontent.com/mon-gmx/8b70cc44a4bf37c0015db1000fb83abc/raw/24ab84640b7c25dc11d002b9940f59f6a8ce7dae/speed_test_sensors.py)** for that matter that paired to a systemd service got me monitoring my internet speed in no time. Now to what matters: it is not my connection the one that sucks, yes, it is slow by today's standards, but never degraded below the 90Mbps in any direction, and that's why data trumps everything and why observability is a must whenever dealing with problems where the root cause is not so evident. Will I dig further here? Hell yes, I have `iperf` measuring different latencies between different antennas (my network is simple: `modem -> router -> repeaters (mesh) -> computers`).
 
