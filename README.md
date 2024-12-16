@@ -54,3 +54,12 @@ I would argue that open-source would be a valid alternative, and it is to some e
 
 My small victory from all this wiggling is that ChatGPT is terrible, as usual, writing a good solution so it forces me to at the very least troubleshoot what it suggests. So at the end of the exercise, I learned something.
 
+### On frameworks and languages... and AI (12/11)
+
+Yes, this is one more of those posts. I was just exploring the whatabouts of FastAPI. I was interested in how hard or how easy it is to get it to work compared to Flask or Django 🤮
+I find that it is super easy to get it working and I really liked, but to be fair, it still has a bunch of dependencies that a language like Go just natively has. And that brought me to the questioning on why are frameworks proliferating at all? Not long ago I spent some time reading about the need to push back on things like React and come to believe that if JavaScript had offered a bunch of much needed functionality like async calls, a lot of these framework nightmares would simply not exist. Yes, JavaScript is a terrible example, but thinking about Java, well, it is not very different, and possibly the list just goes on because, well, if the language is complete, and getting things done does not require an obscene amount of code, do you really need the framework?
+
+I don't have many friends I can bring on the conversation and ended up asking ChatGPT about this and well, it started using a lot the term "overengineering" which brought the conversation from Frameworks and language feature completeness to more weird concepts like cloud native applications and to even harder topics like accountability and why engineering is a very condescending word in a world of do as you go.
+
+Anyway FastAPI is nice, but old me thinks Golang is nicer, even when it has some weird traits.
+
