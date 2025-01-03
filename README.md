@@ -73,7 +73,7 @@ Since the year begins and I really don't buy the resolution things, I think I ca
 
 ### tmpfs (01/25)
 
-I won't delve here into tmpfs because I don't know where it started. However, if you ever worked with a raspberry, you know SD card lifetime is limited and I come to find that tmpfs has been a time and money saver since I minimized the writing in my storage by using it. Yet as you may expect, this is ephemeral since it is saving a block in the RAM so yes, this has two drawbacks actually, you lose memory for the sake of having a temporary place to write. Is it worth it? IMO yes. Any permanent (and important) storage I have deferred to external drives, but external drives are slow. Things like logs, go to the tmpfs for sure.
+I won't delve here into tmpfs because I don't know where it started beyond what [wikipedia](https://en.wikipedia.org/wiki/Tmpfs) has. However, if you ever worked with a raspberry, you know SD card lifetime is limited and I come to find that tmpfs has been a time and money saver since I minimized the writing in my storage by using it. Yet as you may expect, this is ephemeral (since it is saving data into a block in the RAM) so yes, this has two drawbacks actually, you lose memory for the sake of having a temporary place to write. Is it worth it? IMO yes. Any permanent (and important) storage I have deferred to external drives, but external drives are slow. Things like logs, go to the tmpfs for sure.
 
 So how easy is to get this going?
 
