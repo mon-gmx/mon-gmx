@@ -69,4 +69,27 @@ Well, this year is not ending as I would have wanted it. I moved back to my coun
 
 So if this time is not for reflecting I don't really know what else should we do, but I wanted to put some thought and write down something to remind myself that most of my bad decisions are the result of me looking at the wrongs rather than the blessings. I can say without hesitation that I have a life full of regrets and those are the result of losing sight on all the good things that came my way. I left a good living behind because I got burned out when I got a bunch of bad news and doing some introspective, I come to realize I just wasted a lot of time and opportunity and I deeply regret it, but that ends today.
 
-Since the year begins and I really don't buy the resolution things, I think I can just get myself a new habit: count my blessings not my wrongs. I hope by the time I write a `12/25` entry, I will have a bunch of lessons to share rather than regrets. 
+Since the year begins and I really don't buy the resolution things, I think I can just get myself a new habit: count my blessings not my wrongs. I hope by the time I write a `12/25` entry, I will have a bunch of lessons to share rather than regrets.
+
+### tmpfs (01/25)
+
+I won't delve here into tmpfs because I don't know where it started. However, if you ever worked with a raspberry, you know SD card lifetime is limited and I come to find that tmpfs has been a time and money saver since I minimized the writing in my storage by using it. Yet as you may expect, this is ephemeral since it is saving a block in the RAM so yes, this has two drawbacks actually, you lose memory for the sake of having a temporary place to write. Is it worth it? IMO yes. Any permanent (and important) storage I have deferred to external drives, but external drives are slow. Things like logs, go to the tmpfs for sure.
+
+So how easy is to get this going?
+
+Actually it is pretty simple. To the extent to say it comes out of the box, so pretty much all I needed is:
+1. Add the entry to my `/etc/fstab` file`
+2. Add the dirs (this is a minor ache) that need services like nginx back to the filesystem in order not to have startup failure upon restart; file: `/usr/lib/tmpfiles.d/var.conf`
+
+The entries of each file are quite simple:
+```
+# fstab
+# in this case, we specify we mount /var/log as tmpfs with 400MB size
+tmpfs  /var/log  tmpfs  defaults,noatime,nosuid,nodev,mode=0755,size=400M  0  0
+
+# var.conf <- this would go for any filesystem that actually is mounted
+# in this case, we specify we want a dir with owner www-data in the path
+d /var/log/nginx 0755 www-data www-data -
+```
+
+And just like that, I have kept my SD cards alive for close to two years.
