@@ -88,8 +88,8 @@ The entries of each file are quite simple:
 tmpfs  /var/log  tmpfs  defaults,noatime,nosuid,nodev,mode=0755,size=400M  0  0
 
 # var.conf <- this would go for any filesystem that actually is mounted
-# in this case, we specify we want a dir with owner www-data in the path
+# in this case, we specify we want a dir for nginx with owner www-data in the path
 d /var/log/nginx 0755 www-data www-data -
 ```
 
-And just like that, I have kept my SD cards alive for close to two years.
+And just like that, I have kept my SD cards alive for close to two years. Probably with a v.5 this is not needed if you just use a NVMe, but that's not a cheap option when dealing with more than one board.
