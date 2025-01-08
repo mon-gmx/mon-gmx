@@ -61,16 +61,6 @@ I don't have many friends I can bring on the conversation and ended up asking Ch
 
 Anyway FastAPI is nice, but old me thinks Golang is nicer, even when it has some weird traits.
 
-### Closing thoughts of 2024
-
-Well, this year is not ending as I would have wanted it. I moved back to my country after I decided to move on from my job at LinkedIn (and not finding a position that would allow me to keep my visa). I was hoping for a chance to start over and deal with some nuances like my kid's T1D after moving abroad or just getting back to the workforce, but I was lowballed quite often and when I finally got something going, my manager left 😧 (bye bye career plan). So I decided to go back to the board and try to set a strategy for myself again. Well, it is not as simple when the year is ending, your region is in the middle of a government transition, a new panorama where workforce is getting more expensive or simply on the verge of being replaced by AI, so where am I standing then? I think the best I can do out of this is to prepare myself and keep pushing, after all, giving up is the first step for failing and even though I believe in the "fail fast" mindset, I am not ready to fail. So, looking forward to you 2025.
-
-### Learn to count your blessings (01/25)
-
-So if this time is not for reflecting I don't really know what else should we do, but I wanted to put some thought and write down something to remind myself that most of my bad decisions are the result of me looking at the wrongs rather than the blessings. I can say without hesitation that I have a life full of regrets and those are the result of losing sight on all the good things that came my way. I left a good living behind because I got burned out when I got a bunch of bad news and doing some introspective, I come to realize I just wasted a lot of time and opportunity and I deeply regret it, but that ends today.
-
-Since the year begins and I really don't buy the resolution things, I think I can just get myself a new habit: count my blessings not my wrongs. I hope by the time I write a `12/25` entry, I will have a bunch of lessons to share rather than regrets.
-
 ### tmpfs (01/25)
 
 I won't delve here into tmpfs because I don't know where it started beyond what [wikipedia](https://en.wikipedia.org/wiki/Tmpfs) has. However, if you ever worked with a raspberry, you know SD card lifetime is limited and I come to find that tmpfs has been a time and money saver since I minimized the writing in my storage by using it. Yet as you may expect, this is ephemeral (since it is saving data into a block in the RAM) so yes, this has two drawbacks actually, you lose memory for the sake of having a temporary place to write. Is it worth it? IMO yes. Any permanent (and important) storage I have deferred to external drives, but external drives are slow. Things like logs, go to the tmpfs for sure.
@@ -93,3 +83,17 @@ d /var/log/nginx 0755 www-data www-data -
 ```
 
 And just like that, I have kept my SD cards alive for close to two years. Probably with a v.5 this is not needed if you just use a NVMe, but that's not a cheap option when dealing with more than one board.
+
+### Onboarding is underestimated (01/25)
+
+After watching the NVIDIA CES keynote a couple of days ago, many ideas resonated with me. However, one in particular stood out as challenging: onboarding agents as a key process. The reason I am writing this post is that I believe we often overlook how important good onboarding is. I have a few stories, some of success and many of horror, and they all begin, well, at the start. Whether it’s joining a new team, entering a new organization, or taking on a new responsibility, the process of transferring knowledge is an art that, especially in engineering, few have mastered. This is often because it’s perceived that there are more pressing things to do.
+
+Onboarding is no simple task; it requires dedication. It’s easy to think that writing a checklist and passing it on to the newcomer will suffice. In reality, this approach dismisses the unique circumstances surrounding the newcomer and makes assumptions that might be wrong. It was only recently that I realized one of the best things that happened in my career was starting in a place where most people were not only good at their jobs but also great mentors. Conversely, every single time I failed to catch up or decided to pursue a different path, it was triggered by the perception that there was no investment in helping me start. By “investment,” I mean time, will, and resources.
+
+I also like to think that my best contribution to my former job at LinkedIn was helping engineers, regardless of their position, get up to speed. It demanded a significant toll on my time and ability to deliver other projects, but I regret nothing. The people I onboarded have seen their careers thrive to this day, and that makes me believe every minute invested was worth it.
+
+Onboarding and mentoring overall are not simple. You may know many things or quite a few, but the real challenge lies in understanding where to start with the person you’re bringing in. Too often, I’ve been in situations where the person tasked with onboarding me approached the task with the same level of commitment as any other item on their to-do list. The result was poor not only for me as the one being onboarded but also for the organization. Having a new person join and contribute from the start would be fantastic, but that requires another person to step away from their tasks to prioritize knowledge transfer and training. Unfortunately, not many engineers or managers are willing to make that sacrifice.
+
+As AI takes over many key positions, I believe the approach to onboarding will need to change. After all, a well-trained model is a productive model. Passing on knowledge will become a paramount activity for many organizations, and it’s about time. The investment in time and effort always pays off.
+
+
