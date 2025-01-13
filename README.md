@@ -1,6 +1,8 @@
 
 Hey there! You probably noticed this is not a very active place, I still post repositories and snippets from time to time. In another time I used to contribute to projects using the monchitos82 account (_now deactivated_). 
 
+If you feel like contacting me, I'm available at my full name at gmail.
+
 ### About me (02/24)
 
 I have been a computer systems engineer for the past two decades. I have some knowledge in things like Operating Systems Administration, Software Development, Infrastructure Engineering and Site Reliability. All those catchy terms just mean I can deal with computers at a large number (I can also play with raspberries), write code to run them and understand what it takes to keep them running for more than a day.
