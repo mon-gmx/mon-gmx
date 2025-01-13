@@ -99,3 +99,7 @@ Onboarding and mentoring overall are not simple. You may know many things or qui
 As AI takes over many key positions, I believe the approach to onboarding will need to change. After all, a well-trained model is a productive model. Passing on knowledge will become a paramount activity for many organizations, and it’s about time. The investment in time and effort always pays off.
 
 
+### Moving to RSS (01/25)
+
+This sounds like something one would do in the early 2000's, but I think that after the first quarter of the century has passed, it is only sane to stop using any kind of social media and well, this kind of fulfills my needs. I tried to become active starting this year in the only network I used (LinkedIn), but even if I loved being part of the company, I don't love the product, so I am ditching it. This would be just another post of people fleeing away from different platforms into "safe spaces", but I think I don't care about those, I just think that these sites just keep making worse and worse the internet for everyone, so it is time to get away.
+It is a no brainer that these algorithms used for "relevance" are just means to amplify what's controversial, but controversial more often than not are comments and scenarios that are not realistic and tend to harm your well being. I don't want to be part of it, not even as a user, thus, I am going back to when the internet was exciting.
