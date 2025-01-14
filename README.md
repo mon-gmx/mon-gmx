@@ -71,7 +71,7 @@ So how easy is to get this going?
 
 Actually it is pretty simple. To the extent to say it comes out of the box, so pretty much all I needed is:
 1. Add the entry to my `/etc/fstab` file`
-2. Add the dirs (this is a minor ache) that need services like nginx back to the filesystem in order not to have startup failure upon restart; file: `/usr/lib/tmpfiles.d/var.conf`
+2. Add the dirs (this is a minor ache) that need services like nginx back to the filesystem in order not to have startup failure upon restart; file: `/etc/tmpfiles.d/var.conf`
 
 The entries of each file are quite simple:
 ```
