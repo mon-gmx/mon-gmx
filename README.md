@@ -52,7 +52,7 @@ Moving on; since I am not fully occupied at the moment, I thought it was a good 
 
 So I wrapped my project, hit `rm -rf MyWeatherApp` and came in here to rant about how bad things are where all content is social, all infra is rented, all projects are a layered mess of YAMLs and XMLs, all services are (public) cloud hosted and even all useful advice is subscription restricted. Yes, I advocate for a system where you pay for what you use, yet I cannot just put out $20 bucks on every step I take and get nowhere, I start to fear that productivity is for sale under this weird world big tech crafted for us. It saddens me because it resembles the reality I live beyond this screen where a mob and a caste of parasitic politicians extort you by forcing you to pay protection money so you just can make a living.
 
-I would argue that open-source would be a valid alternative, and it is to some extent, but eventually we hit the spot where we need to use something google authored and I guess my frustration here is how much worse things are thanks to G and friends. 
+I would argue that open-source would be a valid alternative, and it is to some extent, but eventually we hit the spot where we need to use something Google authored and I guess my frustration here is how much worse things are thanks to G and friends. 
 
 My small victory from all this wiggling is that ChatGPT is terrible, as usual, writing a good solution so it forces me to at the very least troubleshoot what it suggests. So at the end of the exercise, I learned something.
 
