@@ -3,6 +3,8 @@ Hey there! You probably noticed this is not a very active place, I still post re
 
 If you feel like contacting me, I'm available at my full name at gmail.
 
+All opinions I share here are my opinions, I don't mean any harm and my main interest is to vent out and well, share whatever is going on with my day to day, so yes, eventually I contradict myself. This is far cheaper than therapy so bear with me.
+
 ### About me (02/24)
 
 I have been a computer systems engineer for the past two decades. I have some knowledge in things like Operating Systems Administration, Software Development, Infrastructure Engineering and Site Reliability. All those catchy terms just mean I can deal with computers at a large number (I can also play with raspberries), write code to run them and understand what it takes to keep them running for more than a day.
