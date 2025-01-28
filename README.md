@@ -122,4 +122,4 @@ In the Zeitgeist of what seems to be a recurrent scenario where nobody wins, I b
 
 Anyway, the market is a tide of non-sense as it has been for the past lustrum. I expect nothing, but more of the same: Layoffs, a desperate fight to reduce capex and improve revenue; go on big tech, keep sending us your jobs down here, keep hiding your inefficiencies, soon you will turn the whole world into a San Franciscan crisis, a small elite will think they'll thrive with these changes, they will build their own Elyssium, yet they forget they will not be able to escape the wasteland they're creating. Me? I will keep learning my trade.
 
-As I age I can only bring those nostalgic thoughts of a cloudy January morning in California, where things were uncertain, but life was meant to get better. How naive those times were.
+As I age I can only bring those nostalgic thoughts of a cloudy January morning in California, where things were uncertain, but life was meant to get better.
